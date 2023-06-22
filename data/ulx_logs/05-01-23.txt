@@ -1,0 +1,224 @@
+[15:53:32] New map: zs_xy_twelve_v2
+[15:58:19] Client "Finna" connected.
+[15:58:39] Client "Finna" spawned in server <STEAM_0:0:86011016> (took 20 seconds).
+[15:58:40] Client "Bot" connected.
+[15:58:40] Client "" spawned in server <BOT> (took 323 seconds).
+
+
+
+[17:39:20] New map: zs_xy_twelve_v2
+
+
+
+[17:41:33] New map: zs_xy_twelve_v2
+
+
+
+[17:45:40] New map: zs_xy_twelve_v2
+[17:52:37] Client "Finna" connected.
+[17:52:44] Client "Finna" spawned in server <STEAM_0:0:86011016> (took 7 seconds).
+[17:52:44] Client "Bot" connected.
+[17:52:44] Client "" spawned in server <BOT> (took 431 seconds).
+[17:57:33] Dropped "Finna" from server<STEAM_0:0:86011016>
+[17:57:33] Dropped "Bot" from server<BOT>
+[17:57:33] Client "Finna" connected.
+[17:57:40] Client "Finna" spawned in server <STEAM_0:0:86011016> (took 7 seconds).
+[17:57:53] Finna redeemed Themself
+[17:57:53] Finna: !REDEEM FINNA
+[17:57:53] Client "Bot" connected.
+[17:57:53] Client "" spawned in server <BOT> (took 740 seconds).
+[17:58:15] Finna restarted the map.
+[17:58:15] Server is shutting down/changing levels.
+
+
+
+[17:58:18] New map: zs_xy_twelve_v2
+[17:58:25] Client "Finna" spawned in server <STEAM_0:0:86011016> (took 10 seconds).
+[17:58:25] Client "Bot" connected.
+[17:58:25] Client "" spawned in server <BOT> (took 10 seconds).
+[18:06:37] Bot killed Finna using weapon_zs_zombie
+[18:06:40] Dropped "Bot" from server<BOT>
+
+
+
+[16:31:42] New map: zs_xy_twelve_v2
+[16:34:00] Client "ChickenUSA" connected.
+[16:34:16] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 16 seconds).
+[16:34:16] Client "Bot" connected.
+[16:34:16] Client "" spawned in server <BOT> (took 177 seconds).
+[16:36:50] Server is shutting down/changing levels.
+
+
+
+[16:53:22] New map: zs_xy_twelve_v2
+[16:53:33] Client "ChickenUSA" connected.
+[16:53:40] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[16:53:41] Client "Bot" connected.
+[16:53:41] Client "" spawned in server <BOT> (took 25 seconds).
+[16:55:16] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[16:55:16] Dropped "Bot" from server<BOT>
+[16:55:25] Server is shutting down/changing levels.
+
+
+
+[17:21:20] New map: zs_xy_twelve_v2
+[17:21:48] Client "ChickenUSA" connected.
+[17:22:00] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 12 seconds).
+[17:22:01] Client "Bot" connected.
+[17:22:01] Client "" spawned in server <BOT> (took 47 seconds).
+[17:23:02] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[17:23:02] Dropped "Bot" from server<BOT>
+[17:24:36] Server is shutting down/changing levels.
+
+
+
+[17:26:50] New map: zs_xy_twelve_v2
+[17:28:23] Client "ChickenUSA" connected.
+[17:28:38] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 15 seconds).
+[17:28:39] Client "Bot" connected.
+[17:28:39] Client "" spawned in server <BOT> (took 115 seconds).
+[17:31:43] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[17:31:43] Dropped "Bot" from server<BOT>
+[17:32:08] Server is shutting down/changing levels.
+
+
+
+[17:42:15] New map: zs_xy_twelve_v2
+[17:42:34] Client "ChickenUSA" connected.
+[17:42:53] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 19 seconds).
+[17:42:54] Client "Bot" connected.
+[17:42:54] Client "" spawned in server <BOT> (took 45 seconds).
+[17:45:50] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[17:45:50] Dropped "Bot" from server<BOT>
+[17:55:04] Server is shutting down/changing levels.
+
+
+
+[17:55:34] New map: zs_xy_twelve_v2
+[17:55:37] Client "ChickenUSA" connected.
+[17:55:45] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[17:55:45] Client "Bot" connected.
+[17:55:45] Client "" spawned in server <BOT> (took 17 seconds).
+[17:58:59] ChickenUSA changed the map to zs_tx_highschool_srgs_v1
+[17:58:59] Server is shutting down/changing levels.
+
+
+
+[17:59:03] New map: zs_tx_highschool_srgs_v1
+[17:59:11] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 11 seconds).
+[17:59:12] Client "Bot" connected.
+[17:59:12] Client "" spawned in server <BOT> (took 12 seconds).
+[17:59:13] Client "Bot(2)" connected.
+[17:59:13] Client "" spawned in server <BOT> (took 13 seconds).
+[18:06:27] Bot killed ChickenUSA using weapon_zs_zombie
+[18:06:31] Dropped "Bot(2)" from server<BOT>
+[18:07:18] Server is shutting down/changing levels.
+
+
+
+[18:07:23] New map: zs_xy_twelve_v2
+[18:07:36] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 17 seconds).
+[18:07:37] Client "Bot" connected.
+[18:07:37] Client "" spawned in server <BOT> (took 18 seconds).
+[18:08:14] Server is shutting down/changing levels.
+
+
+
+[18:09:06] New map: zs_xy_twelve_v2
+[18:09:25] Client "ChickenUSA" connected.
+[18:09:32] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[18:09:32] Client "Bot" connected.
+[18:09:32] Client "" spawned in server <BOT> (took 36 seconds).
+[18:19:11] Bot killed ChickenUSA using weapon_zs_zombie
+[18:19:13] Dropped "Bot" from server<BOT>
+[18:20:02] Server is shutting down/changing levels.
+
+
+
+[18:20:06] New map: zs_tx_highschool_srgs_v1
+[18:20:14] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 11 seconds).
+[18:20:15] Client "Bot" connected.
+[18:20:15] Client "" spawned in server <BOT> (took 12 seconds).
+[18:20:16] Client "Bot(2)" connected.
+[18:20:16] Client "" spawned in server <BOT> (took 13 seconds).
+[18:28:00] Bot(2) killed ChickenUSA using weapon_zs_zombie
+[18:28:02] Dropped "Bot" from server<BOT>
+[18:28:12] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[18:28:12] Dropped "Bot(2)" from server<BOT>
+[18:28:20] Server is shutting down/changing levels.
+
+
+
+[18:29:52] New map: zs_xy_twelve_v2
+[18:29:53] Client "ChickenUSA" connected.
+[18:30:00] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[18:30:01] Client "Bot" connected.
+[18:30:01] Client "" spawned in server <BOT> (took 15 seconds).
+[18:30:44] Server is shutting down/changing levels.
+
+
+
+[18:37:31] New map: zs_xy_twelve_v2
+[18:37:37] Client "ChickenUSA" connected.
+[18:37:44] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[18:37:45] Client "Bot" connected.
+[18:37:45] Client "" spawned in server <BOT> (took 20 seconds).
+[18:38:08] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[18:38:08] Dropped "Bot" from server<BOT>
+[18:40:27] Server is shutting down/changing levels.
+
+
+
+[19:34:13] New map: zs_xy_twelve_v2
+[19:35:44] Client "ChickenUSA" connected.
+[19:35:56] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 12 seconds).
+[19:35:56] Client "Bot" connected.
+[19:35:56] Client "" spawned in server <BOT> (took 108 seconds).
+[19:44:13] ChickenUSA suicided!
+[19:44:15] Dropped "Bot" from server<BOT>
+[19:45:04] Server is shutting down/changing levels.
+
+
+
+[19:45:07] New map: zs_tx_highschool_srgs_v1
+[19:45:16] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 11 seconds).
+[19:45:16] Client "Bot" connected.
+[19:45:16] Client "" spawned in server <BOT> (took 11 seconds).
+[19:45:17] Client "Bot(2)" connected.
+[19:45:17] Client "" spawned in server <BOT> (took 12 seconds).
+[19:50:10] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[19:50:10] Dropped "Bot" from server<BOT>
+[19:50:10] Dropped "Bot(2)" from server<BOT>
+[19:50:16] Server is shutting down/changing levels.
+
+
+
+[19:52:47] New map: zs_xy_twelve_v2
+[19:54:56] Client "ChickenUSA" connected.
+[19:55:03] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[19:55:03] Client "Bot" connected.
+[19:55:03] Client "" spawned in server <BOT> (took 142 seconds).
+[19:57:28] ChickenUSA changed the map to zs_tx_highschool_srgs_v1
+[19:57:28] Server is shutting down/changing levels.
+
+
+
+[19:57:31] New map: zs_tx_highschool_srgs_v1
+[19:57:39] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 10 seconds).
+[19:57:39] Client "Bot" connected.
+[19:57:39] Client "" spawned in server <BOT> (took 10 seconds).
+[19:57:40] Client "Bot(2)" connected.
+[19:57:40] Client "" spawned in server <BOT> (took 11 seconds).
+[19:59:10] ChickenUSA gave weapon_zs_arsenalcrate to Themself
+[19:59:10] ChickenUSA: !giveweapon chicken weapon_zs_arsenalcrate
+[20:00:37] ChickenUSA started the wave
+[20:00:37] ChickenUSA: !waveactive 1
+[20:00:39] ChickenUSA: !hp 1
+[20:00:42] ChickenUSA set the hp for Bot to 1
+[20:00:42] ChickenUSA: !hp bot 1
+[20:00:49] ChickenUSA set the hp for Themself to 999999
+[20:00:49] ChickenUSA: !hp chicken 999999
+[20:00:55] ChickenUSA teleported to Bot
+[20:00:55] ChickenUSA: !goto bot
+[20:01:00] ChickenUSA killed Bot using projectile_corgasgrenade
+[20:01:47] Bot(2) suicided!

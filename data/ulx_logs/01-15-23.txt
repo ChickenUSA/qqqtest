@@ -1,0 +1,238 @@
+[20:33:23] New map: zs_xy_twelve_v2
+[20:33:37] Client "ChickenUSA" connected.
+[20:33:45] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[20:41:18] Server is shutting down/changing levels.
+
+
+
+[20:44:43] New map: zs_xy_twelve_v2
+[20:45:14] Client "ChickenUSA" connected.
+[20:45:22] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[20:46:13] ChickenUSA: !roundactive 1 
+[20:46:26] ChickenUSA started the wave
+[20:46:45] ChickenUSA: !bot
+[20:47:23] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[20:47:27] Server is shutting down/changing levels.
+
+
+
+[20:50:08] New map: zs_xy_twelve_v2
+[20:50:18] Client "ChickenUSA" connected.
+[20:50:25] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[20:50:44] (Console) added ChickenUSA to group superadmin
+[20:52:30] ChickenUSA: !bot editmesh ^
+[20:55:29] ChickenUSA: !bot savemesh
+[20:57:28] ChickenUSA restarted the map.
+[20:57:28] Server is shutting down/changing levels.
+
+
+
+[20:57:30] New map: zs_xy_twelve_v2
+[20:57:35] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[20:57:35] Client "SereneFalcon" connected.
+[20:57:35] Client "" spawned in server <BOT> (took 7 seconds).
+[21:00:50] ChickenUSA set the hp for Themself to 90999999
+[21:04:12] ChickenUSA gave weapon_zs_arsenalcrate to Themself
+[21:04:44] SereneFalcon suicided!
+[21:05:02] SereneFalcon suicided!
+[21:05:05] ChickenUSA gave weapon_zs_bulwark to Themself
+[21:05:19] SereneFalcon suicided!
+[21:05:37] ChickenUSA: !bot editmesh chicken
+[21:05:37] SereneFalcon suicided!
+[21:06:53] ChickenUSA killed SereneFalcon using weapon_zs_bulwark
+[21:07:10] ChickenUSA killed SereneFalcon using weapon_zs_bulwark
+[21:08:03] ChickenUSA killed SereneFalcon using weapon_zs_bulwark
+[21:08:31] ChickenUSA started the wave
+[21:08:31] Client "Enchantra" connected.
+[21:08:31] Client "" spawned in server <BOT> (took 663 seconds).
+[21:08:38] ChickenUSA revoked god mode from Themself
+[21:08:38] ChickenUSA: !ungod chicken
+[21:10:43] ChickenUSA: !botmod 2
+[21:10:43] Client "Zebrag" connected.
+[21:10:43] Client "" spawned in server <BOT> (took 795 seconds).
+[21:10:45] Client "HarshHalfling" connected.
+[21:10:45] Client "" spawned in server <BOT> (took 797 seconds).
+[21:10:51] ChickenUSA: !botmod 30
+[21:10:52] Client "SereneGoat" connected.
+[21:10:52] Client "" spawned in server <BOT> (took 804 seconds).
+[21:10:53] Client "Hitmanatee" connected.
+[21:10:53] Client "" spawned in server <BOT> (took 805 seconds).
+[21:10:54] Client "ViciousAlien" connected.
+[21:10:54] Client "" spawned in server <BOT> (took 806 seconds).
+[21:10:55] Client "FireCyborg" connected.
+[21:10:55] Client "" spawned in server <BOT> (took 807 seconds).
+[21:10:56] Client "Sellamander" connected.
+[21:10:56] Client "" spawned in server <BOT> (took 808 seconds).
+[21:10:57] Client "QuirkyWolverine" connected.
+[21:10:57] Client "" spawned in server <BOT> (took 809 seconds).
+[21:10:58] Client "QuirkyRhino" connected.
+[21:10:58] Client "" spawned in server <BOT> (took 810 seconds).
+[21:10:59] Client "GrumpySpike" connected.
+[21:10:59] Client "" spawned in server <BOT> (took 811 seconds).
+[21:11:00] Client "SereneSpike" connected.
+[21:11:00] Client "" spawned in server <BOT> (took 812 seconds).
+[21:11:01] Client "Wolveriot" connected.
+[21:11:01] Client "" spawned in server <BOT> (took 813 seconds).
+[21:11:02] Client "GorgeousKomodoDragon" connected.
+[21:11:02] Client "" spawned in server <BOT> (took 814 seconds).
+[21:11:03] Client "GiantKingfisher" connected.
+[21:11:03] Client "" spawned in server <BOT> (took 815 seconds).
+[21:11:04] Client "Gamercenary" connected.
+[21:11:04] Client "" spawned in server <BOT> (took 816 seconds).
+[21:11:05] Client "AlienHound" connected.
+[21:11:05] Client "" spawned in server <BOT> (took 817 seconds).
+[21:11:07] Client "HappyMelon" connected.
+[21:11:07] Client "" spawned in server <BOT> (took 819 seconds).
+[21:11:08] Client "ScienceImmortal" connected.
+[21:11:08] Client "" spawned in server <BOT> (took 820 seconds).
+[21:11:09] Client "Dragonflight" connected.
+[21:11:09] Client "" spawned in server <BOT> (took 821 seconds).
+[21:11:23] Sellamander suicided!
+[21:11:24] Zebrag suicided!
+[21:11:26] ViciousAlien suicided!
+[21:11:26] GrumpySpike suicided!
+[21:11:27] SereneSpike suicided!
+[21:11:27] FireCyborg suicided!
+[21:11:29] ChickenUSA killed QuirkyRhino using weapon_zs_bulwark
+[21:11:29] GiantKingfisher suicided!
+[21:11:30] Enchantra suicided!
+[21:11:32] ChickenUSA killed AlienHound using weapon_zs_bulwark
+[21:11:33] ChickenUSA killed AlienHound using weapon_zs_bulwark
+[21:11:35] ChickenUSA killed Dragonflight using weapon_zs_bulwark
+[21:11:35] HarshHalfling suicided!
+[21:11:36] Wolveriot suicided!
+[21:11:36] ChickenUSA killed ScienceImmortal using weapon_zs_bulwark
+[21:11:38] Gamercenary suicided!
+[21:11:39] ChickenUSA killed Hitmanatee using weapon_zs_bulwark
+[21:11:41] ChickenUSA killed GorgeousKomodoDragon using weapon_zs_bulwark
+[21:11:41] ChickenUSA killed Sellamander using weapon_zs_bulwark
+[21:11:42] ChickenUSA killed HappyMelon using weapon_zs_bulwark
+[21:11:43] ChickenUSA killed Enchantra using weapon_zs_bulwark
+[21:11:44] ChickenUSA killed FireCyborg using weapon_zs_bulwark
+[21:11:45] ChickenUSA killed ViciousAlien using weapon_zs_bulwark
+[21:11:47] ChickenUSA killed GiantKingfisher using weapon_zs_bulwark
+[21:11:47] ChickenUSA killed SereneSpike using weapon_zs_bulwark
+[21:11:48] ChickenUSA killed QuirkyRhino using weapon_zs_bulwark
+[21:11:49] ChickenUSA killed GrumpySpike using weapon_zs_bulwark
+[21:11:50] ChickenUSA killed SereneGoat using weapon_zs_bulwark
+[21:11:51] ChickenUSA killed Zebrag using weapon_zs_bulwark
+[21:11:51] ChickenUSA killed AlienHound using weapon_zs_bulwark
+[21:11:52] ChickenUSA killed Dragonflight using weapon_zs_bulwark
+[21:11:52] ChickenUSA killed ScienceImmortal using weapon_zs_bulwark
+[21:11:52] ChickenUSA killed HarshHalfling using weapon_zs_bulwark
+[21:11:52] ChickenUSA killed Hitmanatee using weapon_zs_bulwark
+[21:12:51] Server is shutting down/changing levels.
+
+
+
+[21:27:57] New map: zs_xy_twelve_v2
+[21:28:00] Client "ChickenUSA" connected.
+[21:28:07] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[21:28:09] Client "Bot" connected.
+[21:28:09] Client "" spawned in server <BOT> (took 16 seconds).
+[21:35:16] Bot suicided!
+[21:35:33] Bot suicided!
+[21:35:50] Bot suicided!
+[21:36:08] Bot suicided!
+[21:36:25] Bot suicided!
+[21:36:43] Bot suicided!
+[21:38:48] ChickenUSA: !SPYMODE
+[21:39:30] Client "Bot(2)" connected.
+[21:39:30] Client "" spawned in server <BOT> (took 697 seconds).
+[21:39:56] Bot(2) suicided!
+[21:40:14] Bot(2) suicided!
+[21:40:30] Bot(2) suicided!
+[21:40:48] Bot(2) suicided!
+[21:40:54] ChickenUSA killed Bot using weapon_zs_uzi
+[21:41:06] Bot(2) killed ChickenUSA using weapon_zs_zombie
+[21:41:09] Dropped "Bot" from server<BOT>
+[21:41:48] Bot(2) killed ChickenUSA using weapon_zs_zombie
+[21:41:57] Server is shutting down/changing levels.
+
+
+
+[21:41:58] New map: zs_xy_twelve_v2
+[21:42:04] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[21:42:04] Client "Bot" connected.
+[21:42:04] Client "" spawned in server <BOT> (took 7 seconds).
+[21:46:56] ChickenUSA: !waveactive 1` 
+[21:47:00] ChickenUSA started the wave
+[21:47:00] ChickenUSA: !waveactive 1 
+[21:47:16] Bot suicided!
+[21:47:33] Bot suicided!
+[21:47:51] Bot suicided!
+[21:48:08] Bot suicided!
+[21:48:27] Bot suicided!
+[21:48:45] Bot suicided!
+[21:49:09] Bot suicided!
+[21:49:26] Bot suicided!
+[21:49:43] Bot suicided!
+[21:49:58] ChickenUSA: !bot editmeshj
+[21:51:05] ChickenUSA: !bot editmesh chicken
+[21:51:31] Client "Bot(2)" connected.
+[21:51:31] Client "" spawned in server <BOT> (took 574 seconds).
+[21:51:39] ChickenUSA: !bot editmesh chicken
+[21:51:51] ChickenUSA gave weapon_zs_bulwark to Themself
+[21:52:27] ChickenUSA: !bot savemesh
+[21:52:36] ChickenUSA: !bot
+[21:52:47] ChickenUSA: !bot editmesh ^
+[21:52:54] ChickenUSA killed Bot(2) using weapon_zs_bulwark
+[21:52:54] Bot suicided!
+[21:53:12] ChickenUSA killed Bot using weapon_zs_bulwark
+[21:53:16] ChickenUSA killed Bot(2) using weapon_zs_bulwark
+[21:53:38] ChickenUSA restarted the map.
+[21:53:38] ChickenUSA: !restartmap
+[21:53:38] Server is shutting down/changing levels.
+
+
+
+[21:53:40] New map: zs_xy_twelve_v2
+[21:53:45] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[21:53:46] Client "Bot" connected.
+[21:53:46] Client "" spawned in server <BOT> (took 7 seconds).
+[21:54:12] ChickenUSA gave weapon_zs_hammer to Themself
+[21:55:26] ChickenUSA started the wave
+[21:55:26] ChickenUSA: !waveactive 1 
+[21:57:55] Bot suicided!
+[21:58:21] Bot killed ChickenUSA using weapon_zs_wraith
+[21:58:26] Dropped "Bot" from server<BOT>
+[21:59:13] Server is shutting down/changing levels.
+
+
+
+[21:59:14] New map: zs_xy_twelve_v2
+[21:59:19] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[21:59:20] Client "Bot" connected.
+[21:59:20] Client "" spawned in server <BOT> (took 7 seconds).
+[22:01:32] ChickenUSA suicided!
+[22:01:32] ChickenUSA slayed Themself
+[22:01:32] Dropped "Bot" from server<BOT>
+[22:02:50] Server is shutting down/changing levels.
+
+
+
+[22:10:37] New map: zs_xy_twelve_v2
+[22:10:45] Client "ChickenUSA" connected.
+[22:10:52] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[22:10:53] Client "Bot" connected.
+[22:10:53] Client "" spawned in server <BOT> (took 20 seconds).
+[22:11:13] ChickenUSA gave weapon_zs_can_vending_machine to Themself
+[22:14:51] ChickenUSA gave weapon_zs_base to Themself
+[22:15:32] ChickenUSA gave weapon_zs_base to Themself
+[22:15:47] Server is shutting down/changing levels.
+
+
+
+[22:16:26] New map: zs_xy_twelve_v2
+[22:16:47] Server is shutting down/changing levels.
+
+
+
+[22:16:54] New map: zs_xy_twelve_v2
+[22:17:03] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 9 seconds).
+[22:17:03] Client "Bot" connected.
+[22:17:03] Client "" spawned in server <BOT> (took 15 seconds).
+[22:17:30] ChickenUSA gave weapon_zs_base to Themself
+[22:18:03] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[22:18:03] Dropped "Bot" from server<BOT>
+[22:18:09] Server is shutting down/changing levels.

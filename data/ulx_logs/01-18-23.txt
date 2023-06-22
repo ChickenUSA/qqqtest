@@ -1,0 +1,19 @@
+[17:02:05] New map: zs_xy_twelve_v2
+[17:04:57] Client "ChickenUSA" connected.
+[17:05:07] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 10 seconds).
+[17:05:07] Client "Bot" connected.
+[17:05:07] Client "" spawned in server <BOT> (took 192 seconds).
+[17:10:45] ChickenUSA gave weapon_zs_base to Themself
+[17:11:11] ChickenUSA restarted the map.
+[17:11:11] Server is shutting down/changing levels.
+
+
+
+[17:11:13] New map: zs_xy_twelve_v2
+[17:11:18] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[17:11:19] Client "Bot" connected.
+[17:11:19] Client "" spawned in server <BOT> (took 7 seconds).
+[17:11:34] ChickenUSA gave weapon_zs_base to Themself
+[17:13:31] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[17:13:31] Dropped "Bot" from server<BOT>
+[23:35:38] Server is shutting down/changing levels.

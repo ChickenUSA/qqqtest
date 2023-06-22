@@ -1,0 +1,628 @@
+[00:31:46] New map: zs_xy_twelve_v2
+[00:31:54] Client "ChickenUSA" connected.
+[00:32:02] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[00:32:03] Client "Bot" connected.
+[00:32:03] Client "" spawned in server <BOT> (took 21 seconds).
+[00:40:13] Bot killed ChickenUSA using weapon_zs_zombie
+[00:40:13] Dropped "Bot" from server<BOT>
+[00:41:04] Server is shutting down/changing levels.
+
+
+
+[00:41:06] New map: zs_xy_twelve_v2
+[00:41:12] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[00:41:12] Client "Bot" connected.
+[00:41:12] Client "" spawned in server <BOT> (took 7 seconds).
+[00:49:56] Bot suicided!
+[00:52:36] Client "Bot(2)" connected.
+[00:52:36] Client "" spawned in server <BOT> (took 691 seconds).
+[00:52:49] Bot suicided!
+[00:52:55] ChickenUSA gave weapon_zs_kongolaxe to Themself
+[00:53:13] ChickenUSA killed Bot using weapon_zs_kongolaxe
+[00:53:16] Bot(2) killed ChickenUSA using weapon_zs_zombie
+[00:53:16] Dropped "Bot" from server<BOT>
+[00:53:59] Bot(2) suicided!
+[00:54:07] Server is shutting down/changing levels.
+
+
+
+[00:54:09] New map: zs_xy_twelve_v2
+[00:54:14] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[00:54:14] Client "Bot" connected.
+[00:54:14] Client "" spawned in server <BOT> (took 7 seconds).
+[00:57:30] ChickenUSA gave weapon_zs_arsenalcrate to Themself
+[00:57:30] ChickenUSA: !giveweapon chicken weapon_zs_arsenalcrate
+[00:57:38] ChickenUSA gave weapon_zs_hammer to Themself
+[00:57:46] ChickenUSA: !giveammo chickenusa nails 1000
+[01:00:51] Server is shutting down/changing levels.
+
+
+
+[01:01:06] New map: zs_xy_twelve_v2
+[01:01:15] Client "ChickenUSA" connected.
+[01:01:20] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 5 seconds).
+[01:01:21] Client "Bot" connected.
+[01:01:21] Client "" spawned in server <BOT> (took 19 seconds).
+[01:09:51] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[01:09:52] Dropped "Bot" from server<BOT>
+[01:16:57] Server is shutting down/changing levels.
+
+
+
+[01:19:40] New map: zs_xy_twelve_v2
+[01:20:00] Client "ChickenUSA" connected.
+[01:20:05] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 5 seconds).
+[01:20:05] Client "Bot" connected.
+[01:20:05] Client "" spawned in server <BOT> (took 29 seconds).
+[01:28:39] Bot killed ChickenUSA using weapon_zs_zombie
+[01:28:41] Dropped "Bot" from server<BOT>
+[01:29:31] Server is shutting down/changing levels.
+
+
+
+[01:29:33] New map: zs_xy_twelve_v2
+[01:29:38] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[01:29:39] Client "Bot" connected.
+[01:29:39] Client "" spawned in server <BOT> (took 8 seconds).
+[01:33:05] Server is shutting down/changing levels.
+
+
+
+[01:33:11] New map: zs_dust2_hg_v1
+[01:33:12] Client "ChickenUSA" connected.
+[01:33:20] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[01:34:12] ChickenUSA gave weapon_zs_boomstick to Themself
+[01:37:24] ChickenUSA: !botmod
+[01:37:40] ChickenUSA: !bot edit mesh
+[01:37:52] ChickenUSA: !bot editmesh
+[01:37:58] ChickenUSA: !bot editmesh chicken
+[01:49:33] ChickenUSA: !restarmap
+[01:49:36] ChickenUSA restarted the map.
+[01:49:36] ChickenUSA: !restartmap
+[01:49:36] Server is shutting down/changing levels.
+
+
+
+[01:49:39] New map: zs_dust2_hg_v1
+[01:49:45] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[01:50:36] ChickenUSA gave weapon_zs_boomstick to Themself
+[01:51:09] ChickenUSA: !roundactive 1
+[01:52:46] ChickenUSA: !botmod
+[01:52:48] ChickenUSA: !botmod 3
+[01:52:57] ChickenUSA restarted the map.
+[01:52:57] ChickenUSA: !restartmap
+[01:52:57] Server is shutting down/changing levels.
+
+
+
+[01:53:00] New map: zs_dust2_hg_v1
+[01:53:06] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[01:55:39] ChickenUSA: !bot path *
+[01:55:43] ChickenUSA: !botpath chicken
+[01:58:10] ChickenUSA: !bot editmesh chicken
+[02:06:00] ChickenUSA: !botmod 3
+[02:06:14] ChickenUSA: !bot savemesh
+[02:06:17] ChickenUSA restarted the map.
+[02:06:17] ChickenUSA: !restartmap
+[02:06:17] Server is shutting down/changing levels.
+
+
+
+[02:06:20] New map: zs_dust2_hg_v1
+[02:06:26] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[02:06:27] Client "Bot" connected.
+[02:06:27] Client "" spawned in server <BOT> (took 8 seconds).
+[02:07:16] ChickenUSA: !bot editmesh chicken
+[02:07:29] ChickenUSA: !bot editmesh chicken
+[02:07:53] ChickenUSA restarted the map.
+[02:07:53] ChickenUSA: !restartmap
+[02:07:53] Server is shutting down/changing levels.
+
+
+
+[02:07:56] New map: zs_dust2_hg_v1
+[02:08:02] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[02:08:03] Client "Bot" connected.
+[02:08:03] Client "" spawned in server <BOT> (took 9 seconds).
+[02:08:33] ChickenUSA killed Bot using weapon_zs_fists
+[02:08:55] ChickenUSA gave weapon_zs_boomstick to Themself
+[02:09:10] ChickenUSA: !roundactive 1 
+[02:09:26] ChickenUSA started the wave
+[02:09:26] ChickenUSA: !waveactive 1
+[02:09:46] ChickenUSA killed Bot using weapon_zs_boomstick
+[02:10:47] ChickenUSA teleported to Bot
+[02:10:47] ChickenUSA: !goto bot
+[02:10:49] Bot suicided!
+[02:11:03] ChickenUSA: !hp 10000
+[02:11:08] ChickenUSA set the hp for Themself to 100000
+[02:11:08] ChickenUSA: !hp chicken 100000
+[02:11:20] ChickenUSA killed Bot using weapon_zs_blaster
+[02:12:42] ChickenUSA killed Bot using weapon_zs_blaster
+[02:13:40] ChickenUSA: !botmod 3
+[02:13:40] Client "Bot(2)" connected.
+[02:13:40] Client "" spawned in server <BOT> (took 346 seconds).
+[02:13:41] Client "Bot(3)" connected.
+[02:13:41] Client "" spawned in server <BOT> (took 347 seconds).
+[02:13:42] Client "Bot(4)" connected.
+[02:13:42] Client "" spawned in server <BOT> (took 348 seconds).
+[02:13:46] ChickenUSA: !botmesh save
+[02:13:57] Client "Bot(5)" connected.
+[02:13:57] Client "" spawned in server <BOT> (took 363 seconds).
+[02:13:57] ChickenUSA: !bot savemesh
+[02:14:22] Bot(5) suicided!
+[02:14:24] Bot(2) suicided!
+[02:14:29] Bot suicided!
+[02:14:37] ChickenUSA killed Bot(3) using weapon_zs_amigo
+[02:14:54] ChickenUSA killed Bot(3) using weapon_zs_amigo
+[02:14:58] Bot(4) suicided!
+[02:15:00] ChickenUSA suicided!
+[02:15:00] Bot suicided!
+[02:15:00] Bot(2) suicided!
+[02:15:00] Bot(3) suicided!
+[02:15:00] Bot(5) suicided!
+[02:15:00] ChickenUSA slayed Themself,Bot,Bot(2),Bot(3),Bot(5)
+[02:15:00] ChickenUSA: !slay !b
+[02:15:00] Dropped "Bot" from server<BOT>
+[02:15:08] ChickenUSA redeemed Everyone
+[02:15:08] ChickenUSA: !redeem !b
+[02:15:09] Bot(2) suicided!
+[02:15:10] Bot(3) suicided!
+[02:15:11] Bot(4) suicided!
+[02:15:12] Bot(5) suicided!
+[02:15:13] Client "Bot" connected.
+[02:15:13] Client "" spawned in server <BOT> (took 439 seconds).
+[02:15:28] ChickenUSA restarted the map.
+[02:15:28] ChickenUSA: !restartmap
+[02:15:28] Server is shutting down/changing levels.
+
+
+
+[02:15:31] New map: zs_dust2_hg_v1
+[02:15:37] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[02:15:38] Client "Bot" connected.
+[02:15:38] Client "" spawned in server <BOT> (took 9 seconds).
+[02:16:29] ChickenUSA suicided!
+[02:16:29] ChickenUSA slayed Themself
+[02:16:29] ChickenUSA: !slay !b
+[02:16:29] Dropped "Bot" from server<BOT>
+[02:18:50] ChickenUSA forced Themself to be Doom Crab
+[02:19:06] ChickenUSA forced Themself to be The Butcher
+[02:19:40] ChickenUSA forced Themself to be Gore Blaster Zombie
+[02:20:03] ChickenUSA forced Themself to be Shadow Child
+[02:22:11] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[02:38:18] Server is shutting down/changing levels.
+
+
+
+[18:56:10] New map: zs_xy_twelve_v2
+[18:56:51] Client "ChickenUSA" connected.
+[18:57:11] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 20 seconds).
+[18:57:13] Client "Bot" connected.
+[18:57:13] Client "" spawned in server <BOT> (took 75 seconds).
+[18:57:16] Client "[ISFYLG]HenchmanAce" connected.
+[18:58:04] ChickenUSA gave weapon_zs_hammer to Themself
+[18:58:04] ChickenUSA: !giveweapon chicken weapon_zs_hammer
+[18:58:08] Client "[ISFYLG]HenchmanAce" spawned in server <STEAM_0:0:90777007> (took 52 seconds).
+[18:58:09] Client "Bot(2)" connected.
+[18:58:09] Client "" spawned in server <BOT> (took 131 seconds).
+[18:58:23] ChickenUSA added [ISFYLG]HenchmanAce to group superadmin
+[19:00:45] ChickenUSA gave weapon_zs_hammer to [ISFYLG]HenchmanAce
+[19:00:45] ChickenUSA: !giveweapon hench weapon_zs_hammer
+[19:00:53] [ISFYLG]HenchmanAce: !give henchmanace
+[19:00:58] [ISFYLG]HenchmanAce: !menu
+[19:01:02] ChickenUSA: !giveweapon chicken weapon_Zs_boomstick
+[19:01:37] [ISFYLG]HenchmanAce gave weapon_zs_proxymine to Themself
+[19:01:50] [ISFYLG]HenchmanAce: !menu
+[19:02:51] ChickenUSA gave weapon_zs_boomstick to Everyone
+[19:04:00] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_boomstick
+[19:04:08] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_boomstick
+[19:04:11] [ISFYLG]HenchmanAce killed Bot using weapon_zs_boomstick
+[19:04:18] ChickenUSA killed Bot(2) using weapon_zs_boomstick
+[19:04:22] ChickenUSA killed Bot using weapon_zs_boomstick
+[19:04:30] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_boomstick
+[19:04:31] ChickenUSA killed Bot using weapon_zs_boomstick
+[19:04:39] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_boomstick
+[19:04:40] [ISFYLG]HenchmanAce killed Bot using weapon_zs_boomstick
+[19:04:48] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_boomstick
+[19:04:49] Bot killed ChickenUSA using weapon_zs_fastzombie
+[19:04:50] Dropped "Bot(2)" from server<BOT>
+[19:04:54] ChickenUSA suicided!
+[19:06:14] [ISFYLG]HenchmanAce killed ChickenUSA using weapon_zs_boomstick
+[19:06:46] [ISFYLG]HenchmanAce killed Bot using weapon_zs_boomstick
+[19:06:56] ChickenUSA forced Themself to be Wil O' Wisp
+[19:07:00] [ISFYLG]HenchmanAce killed Bot using weapon_zs_boomstick
+[19:08:22] Client "Bot(2)" connected.
+[19:08:22] Client "" spawned in server <BOT> (took 744 seconds).
+[19:08:27] [ISFYLG]HenchmanAce killed ChickenUSA using weapon_zs_boomstick
+[19:08:34] [ISFYLG]HenchmanAce killed Bot using weapon_zs_boomstick
+[19:08:41] ChickenUSA: !botmod -1
+[19:08:42] Dropped "Bot(2)" from server<BOT>
+[19:08:42] [ISFYLG]HenchmanAce killed Bot(2) using player
+[19:08:55] [ISFYLG]HenchmanAce killed Bot using weapon_zs_boomstick
+[19:09:06] ChickenUSA forced Themself to be Giga Shadow Child
+[19:09:14] [ISFYLG]HenchmanAce killed Bot using weapon_zs_boomstick
+[19:09:29] [ISFYLG]HenchmanAce killed Bot using weapon_zs_boomstick
+[19:09:33] [ISFYLG]HenchmanAce killed ChickenUSA using weapon_zs_boomstick
+[19:09:39] [ISFYLG]HenchmanAce killed Bot using weapon_zs_boomstick
+[19:09:50] ChickenUSA: !forceclass chicken "ass kicker"
+[19:09:50] Bot killed [ISFYLG]HenchmanAce using weapon_zs_zombie
+[19:09:50] Dropped "Bot" from server<BOT>
+[19:10:13] ChickenUSA restarted the map.
+[19:10:13] ChickenUSA: !restartmap
+[19:10:13] Server is shutting down/changing levels.
+
+
+
+[19:10:14] New map: zs_xy_twelve_v2
+[19:10:20] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[19:10:20] Client "Bot" connected.
+[19:10:20] Client "" spawned in server <BOT> (took 7 seconds).
+[19:10:21] Client "[ISFYLG]HenchmanAce" spawned in server <STEAM_0:0:90777007> (took 8 seconds).
+[19:10:22] Client "Bot(2)" connected.
+[19:10:22] Client "" spawned in server <BOT> (took 9 seconds).
+[19:11:25] ChickenUSA gave 66000 points to [ISFYLG]HenchmanAce
+[19:11:48] [ISFYLG]HenchmanAce: !menu
+[19:11:56] [ISFYLG]HenchmanAce gave 100 points to Themself
+[19:11:57] [ISFYLG]HenchmanAce gave 100 points to Themself
+[19:12:13] [ISFYLG]HenchmanAce forced Bot(2) to be boss
+[19:12:28] Bot(2) suicided!
+[19:12:28] [ISFYLG]HenchmanAce slayed Bot(2)
+[19:12:28] [ISFYLG]HenchmanAce: !slay bot(2)
+[19:12:29] ChickenUSA set the hp for [ISFYLG]HenchmanAce to 999999
+[19:12:29] ChickenUSA: !hp hench 999999
+[19:12:36] ChickenUSA set the hp for Themself to 99999
+[19:12:36] ChickenUSA: !hp chicken 99999
+[19:12:38] [ISFYLG]HenchmanAce: !menu
+[19:12:50] [ISFYLG]HenchmanAce redeemed Bot(2)
+[19:12:51] Bot(2) suicided!
+[19:12:57] [ISFYLG]HenchmanAce: !menu
+[19:13:42] [ISFYLG]HenchmanAce started a vote (title)
+[19:13:46] ChickenUSA voted for: options
+[19:14:02] Vote results: Option 'options' won. (1/4)
+[19:14:33] ChickenUSA gave weapon_zs_remantler to Everyone
+[19:16:47] ChickenUSA started the wave
+[19:16:47] ChickenUSA: !waveactive 1
+[19:16:52] ChickenUSA: !botmod -2
+[19:16:53] Dropped "Bot" from server<BOT>
+[19:16:54] Dropped "Bot(2)" from server<BOT>
+[19:16:57] ChickenUSA: !kill
+[19:16:59] ChickenUSA suicided!
+[19:17:09] [ISFYLG]HenchmanAce: !giveweapon hench hammer
+[19:17:22] ChickenUSA gave weapon_zs_hammer to [ISFYLG]HenchmanAce
+[19:17:22] ChickenUSA: !giveweapon hench weapon_zs_hammer
+[19:17:27] ChickenUSA: !giveammo hench nails 1000
+[19:17:35] ChickenUSA: !giveammo nails hench 1000
+[19:18:30] [ISFYLG]HenchmanAce killed ChickenUSA using weapon_zs_stubber
+[19:19:09] ChickenUSA forced Themself to be Extinction Crab
+[19:20:43] ChickenUSA forced Themself to be Giga Gore Child
+[19:22:03] [ISFYLG]HenchmanAce suicided!
+[19:22:54] Server is shutting down/changing levels.
+
+
+
+[19:23:00] New map: zs_dust2_hg_v1
+[19:23:09] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 12 seconds).
+[19:23:09] Client "Bot" connected.
+[19:23:09] Client "" spawned in server <BOT> (took 12 seconds).
+[19:25:31] Client "[ISFYLG]HenchmanAce" connected.
+[19:28:53] Client "[ISFYLG]HenchmanAce" spawned in server <STEAM_0:0:90777007> (took 202 seconds).
+[19:28:54] Client "Bot(2)" connected.
+[19:28:54] Client "" spawned in server <BOT> (took 357 seconds).
+[19:29:07] Client "Finna" connected.
+[19:30:59] ChickenUSA gave weapon_zs_boomstick to Everyone
+[19:31:35] ChickenUSA killed Bot using weapon_zs_boomstick
+[19:31:47] Client "Finna" spawned in server <STEAM_0:0:86011016> (took 160 seconds).
+[19:31:53] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_boomstick
+[19:31:57] Bot killed ChickenUSA using weapon_zs_wraith
+[19:31:57] Dropped "Bot(2)" from server<BOT>
+[19:32:04] Bot killed [ISFYLG]HenchmanAce using weapon_zs_wraith
+[19:32:04] ChickenUSA redeemed Themself
+[19:32:04] ChickenUSA: !redeem chicken
+[19:32:05] Bot suicided!
+[19:32:09] ChickenUSA set the hp for Everyone to 999999
+[19:32:09] ChickenUSA: !hp !h 999999
+[19:32:14] ChickenUSA: !redeem hecnh
+[19:32:17] ChickenUSA redeemed [ISFYLG]HenchmanAce
+[19:32:17] ChickenUSA: !redeem hench
+[19:32:18] Client "Bot(2)" connected.
+[19:32:18] Client "" spawned in server <BOT> (took 561 seconds).
+[19:32:22] ChickenUSA set the hp for Everyone to 999998
+[19:32:22] ChickenUSA: !hp !h 999998
+[19:32:37] ChickenUSA added Finna to group superadmin
+[19:32:53] Bot suicided!
+[19:32:58] ChickenUSA gave weapon_zs_boomstick to Everyone
+[19:33:12] [ISFYLG]HenchmanAce killed Bot using weapon_zs_boomstick
+[19:33:29] ChickenUSA started the wave
+[19:33:29] ChickenUSA: !waveactive 1 
+[19:33:29] Client "Bot(3)" connected.
+[19:33:29] Client "" spawned in server <BOT> (took 632 seconds).
+[19:33:33] ChickenUSA killed Bot(3) using weapon_zs_boomstick
+[19:33:40] ChickenUSA killed Bot(3) using weapon_zs_boomstick
+[19:33:51] ChickenUSA killed Bot(3) using weapon_zs_boomstick
+[19:34:04] [ISFYLG]HenchmanAce killed Bot(3) using weapon_zs_boomstick
+[19:34:10] [ISFYLG]HenchmanAce killed Bot(3) using weapon_zs_boomstick
+[19:34:22] ChickenUSA killed Bot using weapon_zs_boomstick
+[19:34:33] Finna: !pathtool
+[19:34:35] ChickenUSA: !botmesh finna 
+[19:34:40] ChickenUSA: !bot meshedit finna
+[19:34:50] [ISFYLG]HenchmanAce killed Bot(3) using weapon_zs_boomstick
+[19:34:51] Finna: !botmesh
+[19:35:11] ChickenUSA: !bot editmesh finna
+[19:35:19] ChickenUSA killed Bot using weapon_zs_boomstick
+[19:35:22] ChickenUSA killed Bot(3) using weapon_zs_boomstick
+[19:35:38] ChickenUSA killed Bot(3) using weapon_zs_boomstick
+[19:35:57] [ISFYLG]HenchmanAce killed Bot using projectile_zsgrenade
+[19:36:08] ChickenUSA set the hp for Everyone to 9
+[19:36:08] ChickenUSA: !hp !z 9
+[19:36:08] Bot(2) killed [ISFYLG]HenchmanAce using weapon_zs_zombie
+[19:36:09] Dropped "Bot" from server<BOT>
+[19:36:13] ChickenUSA redeemed Bot(2),Bot(3),[ISFYLG]HenchmanAce
+[19:36:13] ChickenUSA: !redeem !n
+[19:36:14] Bot(2) suicided!
+[19:36:15] Bot(3) suicided!
+[19:36:16] Client "Bot" connected.
+[19:36:16] Client "" spawned in server <BOT> (took 799 seconds).
+[19:36:18] ChickenUSA: !explode bot
+[19:36:32] ChickenUSA set the hp for Everyone to 999999
+[19:36:32] ChickenUSA: !hp !h 999999
+[19:36:37] Finna gave swep_construction_kit to Themself
+[19:36:41] ChickenUSA: !forceclass !z zombie
+[19:37:07] Finna: !bot editmesh finna
+[19:37:27] Finna: !bot savemesh
+[19:37:39] Finna suicided!
+[19:37:39] Dropped "Bot" from server<BOT>
+[19:37:45] Finna redeemed Themself
+[19:37:45] Finna: !redeem finna
+[19:37:46] Client "Bot" connected.
+[19:37:46] Client "" spawned in server <BOT> (took 889 seconds).
+[19:37:50] Finna granted god mode upon Themself
+[19:37:50] Finna: !god ^
+[19:38:29] Client "Bot(4)" connected.
+[19:38:29] Client "" spawned in server <BOT> (took 932 seconds).
+[19:38:33] [ISFYLG]HenchmanAce: !explode bot(2)
+[19:38:47] [ISFYLG]HenchmanAce: !explode bot
+[19:38:53] [ISFYLG]HenchmanAce: !menu
+[19:39:33] [ISFYLG]HenchmanAce slapped Bot(2) with 100 damage
+[19:39:33] [ISFYLG]HenchmanAce slapped Bot(2) with 100 damage
+[19:39:34] [ISFYLG]HenchmanAce slapped Bot(2) with 100 damage
+[19:39:34] [ISFYLG]HenchmanAce slapped Bot(2) with 100 damage
+[19:39:34] ChickenUSA killed Bot using weapon_zs_boomstick
+[19:39:34] [ISFYLG]HenchmanAce slapped Bot(2) with 100 damage
+[19:39:35] [ISFYLG]HenchmanAce slapped Bot(2) with 100 damage
+[19:39:36] [ISFYLG]HenchmanAce slapped Bot(2) with 100 damage
+[19:39:36] [ISFYLG]HenchmanAce slapped Bot(2) with 100 damage
+[19:39:36] [ISFYLG]HenchmanAce slapped Bot(2) with 100 damage
+[19:40:07] ChickenUSA killed Bot using weapon_zs_boomstick
+[19:40:11] ChickenUSA killed Bot(4) using weapon_zs_boomstick
+[19:40:31] ChickenUSA ignited Bot(4) for 300 seconds
+[19:40:32] ChickenUSA ignited Bot(3) for 300 seconds
+[19:40:34] ChickenUSA ignited Bot(2) for 300 seconds
+[19:40:35] ChickenUSA ignited Bot for 300 seconds
+[19:40:40] Bot suicided!
+[19:40:40] ChickenUSA slayed Bot
+[19:40:41] Bot(2) suicided!
+[19:40:41] ChickenUSA slayed Bot(2)
+[19:40:42] Bot(3) suicided!
+[19:40:42] ChickenUSA slayed Bot(3)
+[19:40:43] Bot(4) suicided!
+[19:40:43] ChickenUSA slayed Bot(4)
+[19:40:54] [ISFYLG]HenchmanAce killed Bot using weapon_zs_boomstick
+[19:41:00] ChickenUSA killed Bot(4) using weapon_zs_boomstick
+[19:41:04] ChickenUSA killed Bot(3) using weapon_zs_boomstick
+[19:41:11] [ISFYLG]HenchmanAce killed Bot using weapon_zs_boomstick
+[19:41:19] [ISFYLG]HenchmanAce killed Bot(4) using weapon_zs_boomstick
+[19:41:25] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_boomstick
+[19:41:30] ChickenUSA killed Bot using weapon_zs_boomstick
+[19:41:37] [ISFYLG]HenchmanAce killed Bot(3) using weapon_zs_boomstick
+[19:41:47] ChickenUSA killed Bot(4) using weapon_zs_boomstick
+[19:41:47] ChickenUSA killed Bot using weapon_zs_boomstick
+[19:41:51] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_boomstick
+[19:41:55] ChickenUSA killed Bot(3) using weapon_zs_boomstick
+[19:42:01] [ISFYLG]HenchmanAce killed Bot using weapon_zs_boomstick
+[19:42:04] ChickenUSA killed Bot(3) using weapon_zs_boomstick
+[19:42:20] ChickenUSA killed Bot(2) using weapon_zs_boomstick
+[19:42:28] ChickenUSA killed Bot(4) using weapon_zs_boomstick
+[19:42:31] ChickenUSA killed Bot(3) using weapon_zs_boomstick
+[19:42:35] ChickenUSA killed Bot using weapon_zs_boomstick
+[19:42:43] ChickenUSA: !botmod 10
+[19:42:44] Client "Bot(5)" connected.
+[19:42:44] Client "" spawned in server <BOT> (took 1187 seconds).
+[19:42:45] Client "Bot(6)" connected.
+[19:42:45] Client "" spawned in server <BOT> (took 1188 seconds).
+[19:42:46] Client "Bot(7)" connected.
+[19:42:46] Client "" spawned in server <BOT> (took 1189 seconds).
+[19:42:47] Client "Bot(8)" connected.
+[19:42:47] Client "" spawned in server <BOT> (took 1190 seconds).
+[19:42:48] Client "Bot(9)" connected.
+[19:42:48] Client "" spawned in server <BOT> (took 1191 seconds).
+[19:42:49] Client "Bot(10)" connected.
+[19:42:49] Client "" spawned in server <BOT> (took 1192 seconds).
+[19:42:50] Client "Bot(11)" connected.
+[19:42:50] Client "" spawned in server <BOT> (took 1193 seconds).
+[19:42:51] Client "Bot(12)" connected.
+[19:42:51] Client "" spawned in server <BOT> (took 1194 seconds).
+[19:42:52] Client "Bot(13)" connected.
+[19:42:52] Client "" spawned in server <BOT> (took 1195 seconds).
+[19:42:53] Client "Bot(14)" connected.
+[19:42:53] Client "" spawned in server <BOT> (took 1196 seconds).
+[19:43:05] ChickenUSA: !roundactive 1
+[19:43:19] ChickenUSA started the wave
+[19:43:19] ChickenUSA: !waveactive 1 
+[19:43:19] Client "Bot(15)" connected.
+[19:43:19] Client "" spawned in server <BOT> (took 1222 seconds).
+[19:43:29] ChickenUSA killed Bot(10) using weapon_zs_boomstick
+[19:43:32] ChickenUSA killed Bot(12) using weapon_zs_boomstick
+[19:43:32] [ISFYLG]HenchmanAce killed Bot(13) using weapon_zs_boomstick
+[19:43:37] [ISFYLG]HenchmanAce killed Bot(9) using weapon_zs_boomstick
+[19:43:37] ChickenUSA killed Bot(5) using weapon_zs_boomstick
+[19:43:40] ChickenUSA killed Bot(13) using weapon_zs_boomstick
+[19:43:47] [ISFYLG]HenchmanAce killed Bot(11) using weapon_zs_boomstick
+[19:43:47] ChickenUSA killed Bot(10) using weapon_zs_boomstick
+[19:43:51] ChickenUSA killed Bot(15) using weapon_zs_boomstick
+[19:43:54] ChickenUSA killed Bot(5) using weapon_zs_boomstick
+[19:43:55] [ISFYLG]HenchmanAce killed Bot(8) using weapon_zs_boomstick
+[19:43:55] [ISFYLG]HenchmanAce killed Bot(7) using weapon_zs_boomstick
+[19:44:02] ChickenUSA killed Bot(10) using weapon_zs_boomstick
+[19:44:02] Bot(3) suicided!
+[19:44:05] Bot(12) suicided!
+[19:44:09] Bot(14) suicided!
+[19:44:11] ChickenUSA killed Bot(9) using weapon_zs_boomstick
+[19:44:18] ChickenUSA killed Bot(6) using weapon_zs_boomstick
+[19:44:22] ChickenUSA killed Bot(15) using weapon_zs_boomstick
+[19:44:24] [ISFYLG]HenchmanAce killed Bot(8) using weapon_zs_boomstick
+[19:44:27] Bot(7) suicided!
+[19:44:27] Bot(5) suicided!
+[19:44:28] Bot(11) suicided!
+[19:44:30] ChickenUSA killed Bot(9) using weapon_zs_boomstick
+[19:44:37] ChickenUSA killed Bot(3) using weapon_zs_boomstick
+[19:44:39] [ISFYLG]HenchmanAce killed Bot(14) using weapon_zs_boomstick
+[19:44:49] [ISFYLG]HenchmanAce killed Bot(13) using weapon_zs_boomstick
+[19:45:02] [ISFYLG]HenchmanAce killed Bot(14) using weapon_zs_boomstick
+[19:45:02] ChickenUSA forced Bot,Bot(10),Bot(11),Bot(12),Bot(13),Bot(14),Bot(15),Bot(2),Bot(3),Bot(4),Bot(5),Bot(6),Bot(7),Bot(8),Bot(9) to be Ancient Nightmare
+[19:45:33] ChickenUSA killed Bot(14) using weapon_zs_boomstick
+[19:45:59] ChickenUSA killed Bot(12) using weapon_zs_boomstick
+[19:46:21] [ISFYLG]HenchmanAce killed Bot(10) using weapon_zs_boomstick
+[19:46:21] ChickenUSA killed Bot(3) using weapon_zs_boomstick
+[19:46:24] [ISFYLG]HenchmanAce killed Bot(12) using weapon_zs_boomstick
+[19:46:26] Bot(11) suicided!
+[19:46:29] Bot(13) suicided!
+[19:46:37] ChickenUSA killed Bot(11) using weapon_zs_boomstick
+[19:46:40] Bot(7) suicided!
+[19:46:42] [ISFYLG]HenchmanAce killed Bot(12) using weapon_zs_boomstick
+[19:46:50] [ISFYLG]HenchmanAce killed Bot(9) using weapon_zs_boomstick
+[19:46:57] [ISFYLG]HenchmanAce killed Bot(12) using weapon_zs_boomstick
+[19:47:00] Bot(3) suicided!
+[19:47:05] [ISFYLG]HenchmanAce killed Bot(10) using weapon_zs_boomstick
+[19:47:09] Bot(14) suicided!
+[19:47:10] Bot(15) suicided!
+[19:47:10] Bot(5) suicided!
+[19:47:11] ChickenUSA gave weapon_zs_smelter to Themself
+[19:47:25] ChickenUSA killed Bot(11) using weapon_zs_smelter
+[19:47:29] Bot(9) suicided!
+[19:47:32] Bot(3) suicided!
+[19:47:38] Finna: !bot reloadmesh
+[19:47:39] Bot(12) suicided!
+[19:47:42] Bot(5) suicided!
+[19:47:54] Dropped "Finna" from server<STEAM_0:0:86011016>
+[19:47:54] Dropped "Bot" from server<BOT>
+[19:47:54] Client "Finna" connected.
+[19:48:00] Client "Finna" spawned in server <STEAM_0:0:86011016> (took 6 seconds).
+[19:48:10] [ISFYLG]HenchmanAce killed Bot(8) using weapon_zs_boomstick
+[19:48:27] Finna redeemed Themself,Bot(10),Bot(11),Bot(12),Bot(13),Bot(14),Bot(15),Bot(2),Bot(3),Bot(4),Bot(5),Bot(6),Bot(7),Bot(8),Bot(9)
+[19:48:27] Finna: !redeem !n
+[19:48:27] Bot(2) suicided!
+[19:48:28] Bot(3) suicided!
+[19:48:29] Bot(4) suicided!
+[19:48:30] Bot(5) suicided!
+[19:48:32] Bot(6) suicided!
+[19:48:33] Bot(7) suicided!
+[19:48:34] Bot(8) suicided!
+[19:48:35] ChickenUSA suicided!
+[19:48:35] Finna suicided!
+[19:48:35] [ISFYLG]HenchmanAce suicided!
+[19:48:35] Bot(9) suicided!
+[19:48:35] Bot(10) suicided!
+[19:48:35] Bot(11) suicided!
+[19:48:35] Bot(12) suicided!
+[19:48:35] Bot(13) suicided!
+[19:48:35] Bot(14) suicided!
+[19:48:35] Bot(15) suicided!
+[19:48:35] Finna slayed Themself,Bot(10),Bot(11),Bot(12),Bot(13),Bot(14),Bot(15),Bot(9),ChickenUSA,[ISFYLG]HenchmanAce
+[19:48:35] Finna: !slay !b
+[19:48:35] Dropped "Bot(2)" from server<BOT>
+[19:48:39] Dropped "Bot(4)" from server<BOT>
+[19:49:26] Server is shutting down/changing levels.
+
+
+
+[19:49:28] New map: zs_xy_twelve_v2
+[19:49:35] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 9 seconds).
+[19:49:35] Client "Bot" connected.
+[19:49:35] Client "" spawned in server <BOT> (took 9 seconds).
+[19:49:37] Client "Finna" spawned in server <STEAM_0:0:86011016> (took 11 seconds).
+[19:49:38] Client "Bot(2)" connected.
+[19:49:38] Client "" spawned in server <BOT> (took 12 seconds).
+[19:49:38] Client "[ISFYLG]HenchmanAce" spawned in server <STEAM_0:0:90777007> (took 12 seconds).
+[19:50:29] ChickenUSA gave weapon_zs_hammer to Themself
+[19:51:28] Finna gave weapon_zs_tempest to Themself
+[19:53:52] Finna gave weapon_zs_remantler to Themself
+[19:55:26] [ISFYLG]HenchmanAce: !menu
+[19:56:08] [ISFYLG]HenchmanAce gave weapon_zs_medicalkit to Themself
+[19:56:15] [ISFYLG]HenchmanAce: !menu
+[19:56:40] [ISFYLG]HenchmanAce gave weapon_zs_deagle to Themself
+[19:56:51] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_deagle
+[19:56:57] Bot suicided!
+[19:57:03] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_deagle
+[19:57:07] [ISFYLG]HenchmanAce killed Bot using weapon_zs_deagle
+[19:57:21] Bot(2) suicided!
+[19:57:25] Bot suicided!
+[19:57:35] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_deagle
+[19:57:36] [ISFYLG]HenchmanAce killed Bot using weapon_zs_deagle
+[19:57:37] [ISFYLG]HenchmanAce killed Bot using weapon_zs_deagle
+[19:57:47] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_deagle
+[19:57:58] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_deagle
+[19:57:58] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_deagle
+[19:58:04] [ISFYLG]HenchmanAce killed Bot using weapon_zs_deagle
+[19:58:10] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_deagle
+[19:58:21] Bot suicided!
+[19:58:23] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_deagle
+[19:58:33] [ISFYLG]HenchmanAce killed Bot using weapon_zs_deagle
+[19:58:38] Dropped "Finna" from server<STEAM_0:0:86011016>
+[19:58:38] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_deagle
+[19:58:49] [ISFYLG]HenchmanAce killed Bot using weapon_zs_deagle
+[19:58:51] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_deagle
+[19:59:06] [ISFYLG]HenchmanAce killed Bot using weapon_zs_deagle
+[19:59:10] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_deagle
+[19:59:17] [ISFYLG]HenchmanAce killed Bot using weapon_zs_deagle
+[19:59:22] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_deagle
+[19:59:28] [ISFYLG]HenchmanAce killed Bot using weapon_zs_deagle
+[19:59:48] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_deagle
+[20:00:16] [ISFYLG]HenchmanAce: !menu
+[20:00:53] [ISFYLG]HenchmanAce gave weapon_zs_bulwark to Themself
+[20:00:58] Client "Bot(3)" connected.
+[20:00:58] Client "" spawned in server <BOT> (took 692 seconds).
+[20:01:22] Bot suicided!
+[20:01:22] Bot(2) suicided!
+[20:01:24] Bot(3) suicided!
+[20:01:33] [ISFYLG]HenchmanAce killed Bot using weapon_zs_bulwark
+[20:01:36] [ISFYLG]HenchmanAce killed Bot(3) using weapon_zs_bulwark
+[20:01:36] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_bulwark
+[20:01:40] [ISFYLG]HenchmanAce killed Bot using weapon_zs_bulwark
+[20:01:44] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_bulwark
+[20:01:45] [ISFYLG]HenchmanAce killed Bot(3) using weapon_zs_bulwark
+[20:01:47] [ISFYLG]HenchmanAce killed Bot using weapon_zs_bulwark
+[20:01:51] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_bulwark
+[20:01:53] [ISFYLG]HenchmanAce killed Bot(3) using weapon_zs_bulwark
+[20:01:53] [ISFYLG]HenchmanAce killed Bot using weapon_zs_bulwark
+[20:01:57] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_bulwark
+[20:02:02] [ISFYLG]HenchmanAce killed Bot using weapon_zs_bulwark
+[20:02:02] [ISFYLG]HenchmanAce killed Bot(3) using weapon_zs_bulwark
+[20:02:05] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_bulwark
+[20:02:10] [ISFYLG]HenchmanAce killed Bot using weapon_zs_bulwark
+[20:02:10] [ISFYLG]HenchmanAce killed Bot(3) using weapon_zs_bulwark
+[20:02:12] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_bulwark
+[20:02:13] [ISFYLG]HenchmanAce killed Bot(3) using weapon_zs_bulwark
+[20:02:17] [ISFYLG]HenchmanAce killed Bot using weapon_zs_bulwark
+[20:02:20] [ISFYLG]HenchmanAce killed Bot(3) using weapon_zs_bulwark
+[20:02:20] [ISFYLG]HenchmanAce killed Bot(2) using weapon_zs_bulwark
+[20:02:25] [ISFYLG]HenchmanAce killed Bot using weapon_zs_bulwark
+[20:02:28] Bot(3) killed [ISFYLG]HenchmanAce using weapon_zs_fastzombie
+[20:02:28] Dropped "Bot(2)" from server<BOT>
+[20:02:57] [ISFYLG]HenchmanAce suicided!
+[20:03:05] Bot suicided!
+[20:03:13] Bot(3) suicided!
+[20:03:45] Bot(3) suicided!
+[20:04:14] Bot(3) suicided!
+[20:05:57] Client "Bot(2)" connected.
+[20:05:57] Client "" spawned in server <BOT> (took 991 seconds).
+[20:06:39] [ISFYLG]HenchmanAce suicided!
+[20:07:56] Bot(3) suicided!
+[20:08:12] Bot suicided!
+[20:08:17] Bot(2) suicided!
+[20:10:53] Bot(2) killed ChickenUSA using weapon_zs_zombie
+[20:10:54] Dropped "Bot" from server<BOT>
+[20:11:02] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[20:11:02] Dropped "Bot(3)" from server<BOT>
+[20:11:10] Dropped "[ISFYLG]HenchmanAce" from server<STEAM_0:0:90777007>
+[20:11:11] Dropped "Bot(2)" from server<BOT>
+[20:11:15] Server is shutting down/changing levels.

@@ -1,0 +1,291 @@
+[06:55:40] New map: zs_xy_twelve_v2
+[06:56:02] Client "ChickenUSA" connected.
+[06:56:18] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 16 seconds).
+[06:56:19] Client "Bot" connected.
+[06:56:19] Client "" spawned in server <BOT> (took 68 seconds).
+[06:59:12] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[06:59:12] Dropped "Bot" from server<BOT>
+[06:59:17] Server is shutting down/changing levels.
+
+
+
+[07:13:40] New map: zs_xy_twelve_v2
+[07:14:11] Client "ChickenUSA" connected.
+[07:14:23] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 12 seconds).
+[07:14:24] Client "Bot" connected.
+[07:14:24] Client "" spawned in server <BOT> (took 61 seconds).
+[07:17:24] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[07:17:25] Dropped "Bot" from server<BOT>
+[07:17:30] Server is shutting down/changing levels.
+
+
+
+[07:18:05] New map: zs_xy_twelve_v2
+[07:18:35] Client "ChickenUSA" connected.
+[07:18:42] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[07:18:42] Client "Bot" connected.
+[07:18:42] Client "" spawned in server <BOT> (took 45 seconds).
+[07:19:03] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[07:19:03] Dropped "Bot" from server<BOT>
+[07:19:58] Client "ChickenUSA" connected.
+[07:20:09] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 11 seconds).
+[07:20:48] Server is shutting down/changing levels.
+
+
+
+[07:21:02] New map: zs_xy_twelve_v2
+[07:21:02] Client "ChickenUSA" connected.
+[07:21:08] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[07:21:09] Client "Bot" connected.
+[07:21:09] Client "" spawned in server <BOT> (took 12 seconds).
+[07:22:58] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[07:22:58] Dropped "Bot" from server<BOT>
+[07:23:07] Server is shutting down/changing levels.
+
+
+
+[07:44:33] New map: zs_xy_twelve_v2
+[07:44:42] Client "ChickenUSA" connected.
+[07:44:48] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[07:44:49] Client "Bot" connected.
+[07:44:49] Client "" spawned in server <BOT> (took 21 seconds).
+[07:47:55] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[07:47:55] Dropped "Bot" from server<BOT>
+[07:47:59] Server is shutting down/changing levels.
+
+
+
+[07:48:42] New map: zs_xy_twelve_v2
+[07:48:42] Client "ChickenUSA" connected.
+[07:48:48] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[07:48:48] Client "Bot" connected.
+[07:48:48] Client "" spawned in server <BOT> (took 11 seconds).
+[07:49:21] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[07:49:21] Dropped "Bot" from server<BOT>
+[07:49:28] Server is shutting down/changing levels.
+
+
+
+[08:04:15] New map: zs_xy_twelve_v2
+[08:04:35] Client "ChickenUSA" connected.
+[08:04:44] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 9 seconds).
+[08:04:44] Client "Bot" connected.
+[08:04:44] Client "" spawned in server <BOT> (took 34 seconds).
+[08:09:23] ChickenUSA suicided!
+[08:09:23] ChickenUSA slayed Themself
+[08:09:23] ChickenUSA: !slay chicken
+[08:09:23] Dropped "Bot" from server<BOT>
+[08:09:26] ChickenUSA redeemed Themself
+[08:09:26] ChickenUSA: !redeem chicken
+[08:09:27] Client "Bot" connected.
+[08:09:27] Client "" spawned in server <BOT> (took 317 seconds).
+[08:12:42] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[08:12:42] Dropped "Bot" from server<BOT>
+[08:14:56] Server is shutting down/changing levels.
+
+
+
+[08:23:11] New map: zs_xy_twelve_v2
+[08:23:18] Client "ChickenUSA" connected.
+[08:23:25] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[08:23:25] Client "Bot" connected.
+[08:23:25] Client "" spawned in server <BOT> (took 18 seconds).
+[08:23:37] ChickenUSA: !pointshop
+[08:24:40] Server is shutting down/changing levels.
+
+
+
+[08:24:53] New map: zs_xy_twelve_v2
+[08:24:53] Client "ChickenUSA" connected.
+[08:25:00] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[08:25:00] Client "Bot" connected.
+[08:25:00] Client "" spawned in server <BOT> (took 12 seconds).
+[08:25:32] ChickenUSA gave 28000 points to Themself
+[08:26:36] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[08:26:36] Dropped "Bot" from server<BOT>
+[08:26:47] Server is shutting down/changing levels.
+
+
+
+[08:38:21] New map: zs_xy_twelve_v2
+[08:38:27] Client "ChickenUSA" connected.
+[08:38:34] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[08:38:34] Client "Bot" connected.
+[08:38:34] Client "" spawned in server <BOT> (took 18 seconds).
+[08:39:52] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[08:39:52] Dropped "Bot" from server<BOT>
+[08:39:55] Server is shutting down/changing levels.
+
+
+
+[08:41:31] New map: zs_xy_twelve_v2
+[08:41:33] Client "ChickenUSA" connected.
+[08:41:40] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[08:41:40] Client "Bot" connected.
+[08:41:40] Client "" spawned in server <BOT> (took 14 seconds).
+[08:42:40] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[08:42:40] Dropped "Bot" from server<BOT>
+[08:44:21] Server is shutting down/changing levels.
+
+
+
+[08:44:32] New map: zs_xy_twelve_v2
+[08:44:50] Client "ChickenUSA" connected.
+[08:44:56] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[08:44:57] Client "Bot" connected.
+[08:44:57] Client "" spawned in server <BOT> (took 30 seconds).
+[08:47:16] Server is shutting down/changing levels.
+
+
+
+[08:47:28] New map: zs_xy_twelve_v2
+[08:47:28] Client "ChickenUSA" connected.
+[08:47:35] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[08:47:36] Client "Bot" connected.
+[08:47:36] Client "" spawned in server <BOT> (took 13 seconds).
+[08:51:37] Server is shutting down/changing levels.
+
+
+
+[08:58:55] New map: zs_xy_twelve_v2
+[08:59:02] Client "ChickenUSA" connected.
+[08:59:08] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[08:59:09] Client "Bot" connected.
+[08:59:09] Client "" spawned in server <BOT> (took 19 seconds).
+[08:59:37] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[08:59:37] Dropped "Bot" from server<BOT>
+[08:59:41] Server is shutting down/changing levels.
+
+
+
+[09:09:57] New map: zs_xy_twelve_v2
+[09:09:57] Client "ChickenUSA" connected.
+[09:10:04] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[09:10:05] Client "Bot" connected.
+[09:10:05] Client "" spawned in server <BOT> (took 13 seconds).
+[09:16:32] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[09:16:32] Dropped "Bot" from server<BOT>
+[09:16:35] Server is shutting down/changing levels.
+
+
+
+[09:32:04] New map: zs_xy_twelve_v2
+[09:32:07] Client "ChickenUSA" connected.
+[09:32:15] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[09:32:15] Client "Bot" connected.
+[09:32:15] Client "" spawned in server <BOT> (took 17 seconds).
+[09:33:46] ChickenUSA suicided!
+[09:33:46] ChickenUSA slayed Themself
+[09:33:46] ChickenUSA: !slay chi
+[09:33:46] Dropped "Bot" from server<BOT>
+[09:33:49] ChickenUSA redeemed Themself
+[09:33:49] ChickenUSA: !redeem ch
+[09:33:50] Client "Bot" connected.
+[09:33:50] Client "" spawned in server <BOT> (took 112 seconds).
+[09:35:30] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[09:35:30] Dropped "Bot" from server<BOT>
+[09:36:41] Server is shutting down/changing levels.
+
+
+
+[09:40:00] New map: zs_xy_twelve_v2
+[09:40:24] Client "ChickenUSA" connected.
+[09:40:31] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[09:40:31] Client "Bot" connected.
+[09:40:31] Client "" spawned in server <BOT> (took 36 seconds).
+[09:48:58] Bot killed ChickenUSA using weapon_zs_zombie
+[09:48:58] Dropped "Bot" from server<BOT>
+[09:49:49] Server is shutting down/changing levels.
+
+
+
+[09:49:56] New map: zs_tx_highschool_srgs_v1
+[09:50:03] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 11 seconds).
+[09:50:04] Client "Bot" connected.
+[09:50:04] Client "" spawned in server <BOT> (took 12 seconds).
+[09:50:05] Client "Bot(2)" connected.
+[09:50:05] Client "" spawned in server <BOT> (took 13 seconds).
+[09:59:00] Server is shutting down/changing levels.
+
+
+
+[09:59:12] New map: zs_xy_twelve_v2
+[09:59:26] Client "ChickenUSA" connected.
+[09:59:32] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[09:59:33] Client "Bot" connected.
+[09:59:33] Client "" spawned in server <BOT> (took 25 seconds).
+[10:01:26] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[10:01:26] Dropped "Bot" from server<BOT>
+[10:02:41] Server is shutting down/changing levels.
+
+
+
+[10:03:33] New map: zs_xy_twelve_v2
+[10:03:46] Client "ChickenUSA" connected.
+[10:03:53] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[10:03:53] Client "Bot" connected.
+[10:03:53] Client "" spawned in server <BOT> (took 23 seconds).
+[10:06:35] Server is shutting down/changing levels.
+
+
+
+[10:15:31] New map: zs_xy_twelve_v2
+[10:16:12] Client "ChickenUSA" connected.
+[10:16:18] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[10:16:19] Client "Bot" connected.
+[10:16:19] Client "" spawned in server <BOT> (took 53 seconds).
+[10:23:12] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[10:23:12] Dropped "Bot" from server<BOT>
+[10:23:20] Server is shutting down/changing levels.
+
+
+
+[10:33:47] New map: zs_xy_twelve_v2
+[10:33:49] Client "ChickenUSA" connected.
+[10:33:55] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[10:33:56] Client "Bot" connected.
+[10:33:56] Client "" spawned in server <BOT> (took 189 seconds).
+[10:42:21] ChickenUSA suicided!
+[10:42:23] Dropped "Bot" from server<BOT>
+[10:43:13] Server is shutting down/changing levels.
+
+
+
+[10:43:15] New map: zs_tx_highschool_srgs_v1
+[10:43:22] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 9 seconds).
+[10:43:23] Client "Bot" connected.
+[10:43:23] Client "" spawned in server <BOT> (took 10 seconds).
+[10:43:24] Client "Bot(2)" connected.
+[10:43:24] Client "" spawned in server <BOT> (took 11 seconds).
+[10:49:50] Server is shutting down/changing levels.
+
+
+
+[10:50:59] New map: zs_xy_twelve_v2
+[10:51:01] Client "ChickenUSA" connected.
+[10:51:09] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[10:51:09] Client "Bot" connected.
+[10:51:09] Client "" spawned in server <BOT> (took 69 seconds).
+[10:52:10] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[10:52:10] Dropped "Bot" from server<BOT>
+[10:52:15] Server is shutting down/changing levels.
+
+
+
+[10:54:23] New map: zs_xy_twelve_v2
+[10:54:33] Client "ChickenUSA" connected.
+[10:54:39] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[10:54:40] Client "Bot" connected.
+[10:54:40] Client "" spawned in server <BOT> (took 22 seconds).
+[10:54:55] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[10:54:55] Dropped "Bot" from server<BOT>
+[10:55:47] Server is shutting down/changing levels.
+
+
+
+[10:55:58] New map: zs_xy_twelve_v2
+[10:56:05] Client "ChickenUSA" connected.
+[10:56:11] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[10:56:12] Client "Bot" connected.
+[10:56:12] Client "" spawned in server <BOT> (took 19 seconds).
+[10:59:53] Server is shutting down/changing levels.

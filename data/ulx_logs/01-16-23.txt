@@ -1,0 +1,54 @@
+[03:40:51] New map: zs_xy_twelve_v2
+[03:40:52] Client "ChickenUSA" connected.
+[03:41:03] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 11 seconds).
+[03:41:03] Client "Bot" connected.
+[03:41:03] Client "" spawned in server <BOT> (took 16 seconds).
+[03:41:56] ChickenUSA gave weapon_zs_boardpack to Themself
+[03:42:06] ChickenUSA gave weapon_zs_boardpack to Themself
+[03:42:14] Server is shutting down/changing levels.
+
+
+
+[16:16:56] New map: zs_xy_twelve_v2
+[16:17:36] Client "ChickenUSA" connected.
+[16:17:48] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 12 seconds).
+[16:17:50] Client "Bot" connected.
+[16:17:50] Client "" spawned in server <BOT> (took 79 seconds).
+[16:18:18] ChickenUSA started the wave
+[16:21:13] Bot killed ChickenUSA using weapon_zs_zombie
+[16:21:13] Dropped "Bot" from server<BOT>
+[16:21:23] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[16:21:36] Server is shutting down/changing levels.
+
+
+
+[20:11:36] New map: zs_xy_twelve_v2
+[20:13:17] Client "ChickenUSA" connected.
+[20:13:29] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 12 seconds).
+[20:13:30] Client "Bot" connected.
+[20:13:30] Client "" spawned in server <BOT> (took 118 seconds).
+[20:14:07] ChickenUSA started the wave
+[20:14:07] ChickenUSA: !waveactive 1 
+[20:15:38] Bot killed ChickenUSA using weapon_zs_zombie
+[20:15:39] Dropped "Bot" from server<BOT>
+[20:16:12] Server is shutting down/changing levels.
+
+
+
+[20:16:54] New map: zs_xy_twelve_v2
+[20:17:37] Client "ChickenUSA" connected.
+[20:17:45] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[20:17:46] Client "Bot" connected.
+[20:17:46] Client "" spawned in server <BOT> (took 56 seconds).
+[20:18:11] ChickenUSA started the wave
+[20:18:11] ChickenUSA: !waveactive 1 
+[20:19:44] Bot killed ChickenUSA using weapon_zs_zombie
+[20:19:48] Dropped "Bot" from server<BOT>
+[20:20:35] Server is shutting down/changing levels.
+
+
+
+[20:20:36] New map: zs_xy_twelve_v2
+[20:20:42] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[20:20:42] Client "Bot" connected.
+[20:20:42] Client "" spawned in server <BOT> (took 7 seconds).

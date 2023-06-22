@@ -1,0 +1,1 @@
+SRL={["Ser"]={["LossWave1"]={["zs_ks_house"]=2,["zs_xy_twelve_v2"]=21,["zs_tx_highschool_srgs_v1"]=4},["LossWave2"]={["zs_dust2_hg_v1"]=1,["zs_xy_twelve_v2"]=7},["LossWave3"]={["zs_xy_twelve_v2"]=2},["LossWave4"]={["zs_dust2_hg_v1"]=1,["zs_tx_highschool_srgs_v1"]=2,["zs_xy_twelve_v2"]=1},["Wins"]={["zs_dust2_hg_v1"]=1}}}

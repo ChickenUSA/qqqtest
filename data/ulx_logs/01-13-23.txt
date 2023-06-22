@@ -1,0 +1,59 @@
+[12:16:38] New map: gm_construct
+[12:18:41] Server is shutting down/changing levels.
+
+
+
+[12:18:59] New map: zs_xy_twelve_v2
+[12:19:06] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[12:20:52] (Console) added ChickenUSA to group superadmin
+[12:21:44] ChickenUSA renamed group superadmin to -developer--
+[12:21:58] ChickenUSA changed group admin to be able to target anyone
+[12:22:12] ChickenUSA renamed group -developer-- to developer
+[12:23:24] ChickenUSA renamed group developer to developer (owner)
+[12:23:34] ChickenUSA renamed group admin to developer
+[12:23:54] ChickenUSA renamed group operator to administratpr
+[12:23:54] ChickenUSA changed group administratpr to be able to target anyone
+[12:24:07] ChickenUSA renamed group administratpr to administrator
+[12:24:08] ChickenUSA created group new_group which inherits rights from group user
+[12:24:14] ChickenUSA renamed group new_group to moderator
+[12:25:07] ChickenUSA created group trusted which inherits rights from group user
+[12:26:14] Server is shutting down/changing levels.
+
+
+
+[13:38:06] New map: zs_xy_twelve_v2
+[13:39:38] Client "ChickenUSA" connected.
+[13:39:46] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[13:46:46] ChickenUSA granted access "ulx forceboss" to group developer (owner)
+[13:46:46] ChickenUSA granted access "ulx forceclass" to group developer (owner)
+[13:46:47] ChickenUSA granted access "ulx forceteam" to group developer (owner)
+[13:46:47] ChickenUSA granted access "ulx giveammo" to group developer (owner)
+[13:46:48] ChickenUSA granted access "ulx givepoints" to group developer (owner)
+[13:46:48] ChickenUSA granted access "ulx giveweapon" to group developer (owner)
+[13:46:48] ChickenUSA granted access "ulx redeem" to group developer (owner)
+[13:46:49] ChickenUSA granted access "ulx respawn" to group developer (owner)
+[13:46:49] ChickenUSA granted access "ulx waveactive" to group developer (owner)
+[13:46:50] ChickenUSA granted access "ulx wavetime" to group developer (owner)
+[13:47:47] ChickenUSA gave 10000 points to Themself
+[13:47:51] ChickenUSA gave 100000 points to Themself
+[13:48:03] ChickenUSA gave weapon_base to Themself
+[13:48:31] ChickenUSA gave weapon_zs_medicgun to Themself
+[13:49:03] ChickenUSA gave weapon_zs_asmd to Themself
+[13:49:33] ChickenUSA gave weapon_zs_tempest to Themself
+[13:49:54] ChickenUSA gave weapon_map_base to Themself
+[13:50:16] ChickenUSA suicided!
+[13:50:54] ChickenUSA redeemed Themself
+[13:51:03] ChickenUSA respawned Themself as Survivors
+[13:51:07] Server is shutting down/changing levels.
+
+
+
+[13:51:09] New map: zs_xy_twelve_v2
+[13:51:14] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[13:51:30] ChickenUSA started the wave
+[13:51:31] ChickenUSA ended the wave
+[13:51:41] ChickenUSA started the wave
+[13:51:49] ChickenUSA set time until wave start/end to 47 minutes
+[13:53:54] ChickenUSA set time until wave start/end to 1 hour
+[13:56:06] ChickenUSA: !restartmap
+[13:59:42] Server is shutting down/changing levels.

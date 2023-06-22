@@ -1,0 +1,994 @@
+[02:11:45] New map: zs_xy_twelve_v2
+
+
+
+[02:17:36] New map: zs_xy_twelve_v2
+[02:37:13] Server is shutting down/changing levels.
+
+
+
+[03:03:04] New map: zs_xy_twelve_v2
+[03:03:51] Server is shutting down/changing levels.
+
+
+
+[03:04:05] New map: zs_xy_twelve_v2
+[03:04:18] Server is shutting down/changing levels.
+
+
+
+[03:17:41] New map: zs_xy_twelve_v2
+[03:18:16] Server is shutting down/changing levels.
+
+
+
+[03:21:07] New map: zs_xy_twelve_v2
+[03:22:49] Server is shutting down/changing levels.
+
+
+
+[03:24:45] New map: zs_xy_twelve_v2
+
+
+
+[03:28:32] New map: zs_xy_twelve_v2
+[03:30:16] Server is shutting down/changing levels.
+
+
+
+[03:30:48] New map: zs_xy_twelve_v2
+[03:40:08] Server is shutting down/changing levels.
+
+
+
+[03:40:33] New map: zs_xy_twelve_v2
+[03:41:29] Client "ChickenUSA" connected.
+[03:41:55] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 26 seconds).
+[03:41:55] Client "Bot" connected.
+[03:41:55] Client "" spawned in server <BOT> (took 87 seconds).
+[03:43:05] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[03:43:05] Dropped "Bot" from server<BOT>
+[03:43:10] Server is shutting down/changing levels.
+
+
+
+[04:30:51] New map: zs_xy_twelve_v2
+[04:32:38] Client "ChickenUSA" connected.
+[04:32:43] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 5 seconds).
+[04:32:44] Client "Bot" connected.
+[04:32:44] Client "" spawned in server <BOT> (took 117 seconds).
+[04:34:09] ChickenUSA started the wave
+[04:34:09] ChickenUSA: !waveactive 1
+[04:34:21] ChickenUSA ended the wave
+[04:34:23] ChickenUSA started the wave
+[04:34:24] Client "Bot(2)" connected.
+[04:34:24] Client "" spawned in server <BOT> (took 217 seconds).
+[04:34:31] ChickenUSA ended the wave
+[04:35:02] Bot killed ChickenUSA using weapon_zs_zombie
+[04:35:02] Dropped "Bot(2)" from server<BOT>
+[04:35:50] ChickenUSA changed the map to zm_desprerados_a1
+[04:35:50] Server is shutting down/changing levels.
+
+
+
+[04:35:54] New map: zm_desprerados_a1
+[04:36:02] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 10 seconds).
+[04:37:17] ChickenUSA changed the map to zs_ks_house
+[04:37:17] Server is shutting down/changing levels.
+
+
+
+[04:37:20] New map: zs_ks_house
+[04:37:25] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[04:37:47] ChickenUSA: !bot editmesh ^
+[04:40:59] ChickenUSA: !bot savemesh
+[04:41:52] ChickenUSA: !bot setmapparam ZPHW 2
+[04:42:15] ChickenUSA: !bot setmapparam
+[04:43:01] ChickenUSA: !bot setmapparam ZPW 2
+[04:43:09] ChickenUSA: !bot savemesh
+[04:44:01] ChickenUSA restarted the map.
+[04:44:01] ChickenUSA: !restartmap
+[04:44:01] Server is shutting down/changing levels.
+
+
+
+[04:44:03] New map: zs_ks_house
+[04:44:08] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[04:44:08] Client "Bot" connected.
+[04:44:08] Client "" spawned in server <BOT> (took 6 seconds).
+[04:44:10] Client "Bot(2)" connected.
+[04:44:10] Client "" spawned in server <BOT> (took 8 seconds).
+[04:44:38] ChickenUSA gave weapon_zs_sigilplacer to Themself
+[04:46:42] ChickenUSA restarted the map.
+[04:46:42] ChickenUSA: !restartmap
+[04:46:42] Server is shutting down/changing levels.
+
+
+
+[04:46:44] New map: zs_ks_house
+[04:46:49] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[04:46:50] Client "Bot" connected.
+[04:46:50] Client "" spawned in server <BOT> (took 7 seconds).
+[04:46:51] Client "Bot(2)" connected.
+[04:46:51] Client "" spawned in server <BOT> (took 8 seconds).
+[04:46:57] ChickenUSA gave weapon_zs_sigilplacer to Themself
+[04:54:19] Bot(2) killed ChickenUSA using weapon_zs_zombie
+[04:54:19] Dropped "Bot" from server<BOT>
+[04:54:22] ChickenUSA restarted the map.
+[04:54:22] ChickenUSA: !restartmap
+[04:54:22] Server is shutting down/changing levels.
+
+
+
+[04:54:24] New map: zs_ks_house
+[04:54:30] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[04:54:30] Client "Bot" connected.
+[04:54:30] Client "" spawned in server <BOT> (took 7 seconds).
+[04:54:31] Client "Bot(2)" connected.
+[04:54:31] Client "" spawned in server <BOT> (took 8 seconds).
+[04:55:02] ChickenUSA: !waveactive
+[04:55:06] ChickenUSA started the wave
+[04:55:06] ChickenUSA: !waveactive 1
+[04:55:24] Bot killed ChickenUSA using weapon_zs_zombie
+[04:55:28] Dropped "Bot(2)" from server<BOT>
+[04:56:16] Server is shutting down/changing levels.
+
+
+
+[04:56:18] New map: zs_ks_panelhous
+[04:56:24] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[04:58:43] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[04:58:46] Server is shutting down/changing levels.
+
+
+
+[05:31:11] New map: zs_xy_twelve_v2
+[05:33:09] Client "ChickenUSA" connected.
+[05:34:21] Server is shutting down/changing levels.
+
+
+
+[05:34:39] New map: zs_xy_twelve_v2
+[05:34:54] Client "ChickenUSA" connected.
+[05:35:02] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[05:35:03] Client "Bot" connected.
+[05:35:03] Client "" spawned in server <BOT> (took 28 seconds).
+[05:35:25] ChickenUSA set the hp for Themself to 9999
+[05:35:25] ChickenUSA: !hp chicken 09999
+[05:35:28] ChickenUSA started the wave
+[05:35:28] ChickenUSA: !waveactive 1 
+[05:37:03] ChickenUSA gave weapon_zs_arsenalcrate to Themself
+[05:37:03] ChickenUSA: !giveweapon chicken weapon_zs_arsenalcrate
+[05:37:56] Bot suicided!
+[05:37:59] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[05:37:59] Dropped "Bot" from server<BOT>
+[05:38:05] Server is shutting down/changing levels.
+
+
+
+[05:59:54] New map: zs_xy_twelve_v2
+[05:59:57] Client "ChickenUSA" connected.
+[06:00:01] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 4 seconds).
+[06:00:02] Client "Bot" connected.
+[06:00:02] Client "" spawned in server <BOT> (took 12 seconds).
+[06:01:03] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[06:01:03] Dropped "Bot" from server<BOT>
+[06:01:18] Client "ChickenUSA" connected.
+[06:01:24] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[06:02:15] ChickenUSA changed the map to zs_e1m1_hg_v2
+[06:02:15] Server is shutting down/changing levels.
+
+
+
+[06:02:17] New map: zs_e1m1_hg_v2
+[06:02:23] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[06:04:50] Server is shutting down/changing levels.
+
+
+
+[06:08:16] New map: zs_xy_twelve_v2
+[06:08:20] Client "ChickenUSA" connected.
+[06:08:25] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 5 seconds).
+[06:08:26] Client "Bot" connected.
+[06:08:26] Client "" spawned in server <BOT> (took 14 seconds).
+[06:14:00] Server is shutting down/changing levels.
+
+
+
+[06:14:13] New map: zs_xy_twelve_v2
+[06:14:30] Client "ChickenUSA" connected.
+[06:14:35] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 5 seconds).
+[06:14:35] Client "Bot" connected.
+[06:14:35] Client "" spawned in server <BOT> (took 26 seconds).
+[06:14:52] ChickenUSA gave weapon_zs_arsenalcrate to Themself
+[06:14:52] ChickenUSA: !giveweapon chicken weapon_zs_arsenalcrate
+[06:20:12] Server is shutting down/changing levels.
+
+
+
+[06:32:49] New map: zs_xy_twelve_v2
+[06:32:59] Client "ChickenUSA" connected.
+[06:33:04] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 5 seconds).
+[06:33:05] Client "Bot" connected.
+[06:33:05] Client "" spawned in server <BOT> (took 20 seconds).
+[06:35:43] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[06:35:43] Dropped "Bot" from server<BOT>
+[06:37:31] Client "ChickenUSA" connected.
+[06:37:36] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 5 seconds).
+[06:37:50] ChickenUSA changed the map to zm_tx_highschoolbeta7_d_vh
+[06:37:50] Server is shutting down/changing levels.
+
+
+
+[06:37:53] New map: zm_tx_highschoolbeta7_d_vh
+[06:38:00] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 9 seconds).
+[06:38:34] ChickenUSA gave weapon_zs_sigilplacer to Themself
+[06:43:04] ChickenUSA restarted the map.
+[06:43:04] ChickenUSA: !restartmap
+[06:43:04] Server is shutting down/changing levels.
+
+
+
+[06:43:06] New map: zm_tx_highschoolbeta7_d_vh
+[06:43:12] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[06:43:34] ChickenUSA gave weapon_zs_sigilplacer to Themself
+[06:44:20] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[06:44:24] Server is shutting down/changing levels.
+
+
+
+[08:20:53] New map: zs_xy_twelve_v2
+[08:31:52] Client "ChickenUSA" connected.
+[08:32:12] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 20 seconds).
+[08:32:13] Client "Bot" connected.
+[08:32:13] Client "" spawned in server <BOT> (took 1364 seconds).
+[08:32:30] ChickenUSA changed the map to zm_tx_highschoolbeta7_d_vh
+[08:32:30] Server is shutting down/changing levels.
+
+
+
+[08:32:33] New map: zm_tx_highschoolbeta7_d_vh
+[08:32:40] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 9 seconds).
+[08:37:27] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[09:31:31] Server is shutting down/changing levels.
+
+
+
+[10:53:33] New map: zs_xy_twelve_v2
+[10:54:51] Client "ChickenUSA" connected.
+[10:55:01] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 10 seconds).
+[10:55:02] Client "Bot" connected.
+[10:55:02] Client "" spawned in server <BOT> (took 93 seconds).
+[10:55:22] ChickenUSA changed the map to zs_tx_highschool_srgs_v1
+[10:55:22] Server is shutting down/changing levels.
+
+
+
+[10:55:24] New map: zs_tx_highschool_srgs_v1
+[10:55:30] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[10:56:18] ChickenUSA: !bot editmesh ^
+[10:56:44] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[10:58:04] Server is shutting down/changing levels.
+
+
+
+[11:05:50] New map: zs_xy_twelve_v2
+[11:07:21] Client "ChickenUSA" connected.
+[11:07:30] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 9 seconds).
+[11:07:31] Client "Bot" connected.
+[11:07:31] Client "" spawned in server <BOT> (took 105 seconds).
+[11:07:58] ChickenUSA changed the map to zs_tx_highschool_srgs_v1
+[11:07:58] Server is shutting down/changing levels.
+
+
+
+[11:08:00] New map: zs_tx_highschool_srgs_v1
+[11:08:06] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[11:08:22] ChickenUSA changed the map to zs_tx_highschool_srgs_v1
+[11:08:22] Server is shutting down/changing levels.
+
+
+
+[11:08:24] New map: zs_tx_highschool_srgs_v1
+[11:08:29] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[11:08:39] ChickenUSA changed the map to zs_tx_highschool_srgs_v1
+[11:08:39] Server is shutting down/changing levels.
+
+
+
+[11:08:41] New map: zs_tx_highschool_srgs_v1
+[11:08:47] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[11:10:07] ChickenUSA: !bot meshedit ^
+[11:10:20] ChickenUSA: !bot editmesh ^
+[11:10:49] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[11:10:55] Client "ChickenUSA" connected.
+[11:11:00] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 5 seconds).
+[11:11:12] ChickenUSA changed the map to zs_xy_twelve_v2
+[11:11:12] Server is shutting down/changing levels.
+
+
+
+[11:11:14] New map: zs_xy_twelve_v2
+[11:11:20] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[11:11:20] Client "Bot" connected.
+[11:11:20] Client "" spawned in server <BOT> (took 8 seconds).
+[11:12:56] ChickenUSA suicided!
+[11:12:57] Dropped "Bot" from server<BOT>
+[11:12:59] ChickenUSA redeemed Themself
+[11:12:59] ChickenUSA: !redeem chicken
+[11:13:00] Client "Bot" connected.
+[11:13:00] Client "" spawned in server <BOT> (took 108 seconds).
+[11:15:32] ChickenUSA set the hp for Themself to 993939
+[11:15:32] ChickenUSA: !hp chicken 993939
+[11:15:35] ChickenUSA started the wave
+[11:15:35] ChickenUSA: !waveactive 1
+[11:19:37] ChickenUSA killed Bot using weapon_zs_redeemers
+[11:20:05] Client "Bot(2)" connected.
+[11:20:05] Client "" spawned in server <BOT> (took 533 seconds).
+[11:20:27] ChickenUSA killed Bot using weapon_zs_uzi
+[11:20:28] ChickenUSA killed Bot(2) using weapon_zs_uzi
+[11:21:01] ChickenUSA killed Bot using weapon_zs_uzi
+[11:21:10] ChickenUSA killed Bot(2) using weapon_zs_uzi
+[11:21:11] Client "남근 원숭이" connected.
+[11:21:28] ChickenUSA killed Bot using weapon_zs_uzi
+[11:21:34] ChickenUSA killed Bot(2) using weapon_zs_uzi
+[11:21:52] ChickenUSA killed Bot using weapon_zs_uzi
+[11:22:45] ChickenUSA killed Bot(2) using weapon_zs_uzi
+[11:22:47] ChickenUSA killed Bot using weapon_zs_uzi
+[11:23:35] ChickenUSA killed Bot(2) using weapon_zs_redeemers
+[11:23:36] ChickenUSA killed Bot using weapon_zs_redeemers
+[11:24:52] ChickenUSA gave weapon_zs_boomstick to Themself
+[11:25:09] ChickenUSA killed Bot using weapon_zs_boomstick
+[11:25:14] ChickenUSA killed Bot(2) using weapon_zs_boomstick
+[11:25:33] ChickenUSA killed Bot using weapon_zs_boomstick
+[11:25:41] ChickenUSA killed Bot(2) using weapon_zs_boomstick
+[11:25:49] ChickenUSA killed Bot using weapon_zs_boomstick
+[11:25:52] ChickenUSA killed Bot(2) using weapon_zs_boomstick
+[11:25:57] ChickenUSA killed Bot using weapon_zs_boomstick
+[11:26:06] ChickenUSA killed Bot(2) using weapon_zs_boomstick
+[11:26:13] ChickenUSA killed Bot using weapon_zs_boomstick
+[11:26:34] ChickenUSA killed Bot using weapon_zs_boomstick
+[11:26:40] ChickenUSA changed the map to zs_tx_highschool_srgs_v1
+[11:26:40] Server is shutting down/changing levels.
+
+
+
+[11:26:42] New map: zs_tx_highschool_srgs_v1
+[11:26:49] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[11:27:32] ChickenUSA: !bot editmesh ^
+[11:30:04] Client "남근 원숭이" connected.
+[11:33:22] Client "남근 원숭이" spawned in server <STEAM_0:0:63804280> (took 198 seconds).
+[11:33:46] ChickenUSA redeemed Themself
+[11:33:46] ChickenUSA: !redeem chicken
+[11:35:09] ChickenUSA added 남근 원숭이 to group superadmin
+[11:35:58] ChickenUSA set the hp for Everyone to 999999
+[11:35:58] ChickenUSA: !hp !h 999999
+[11:36:45] 남근 원숭이 played sound vo/npc/Alyx/ohgod01.wav
+[11:36:47] 남근 원숭이 played sound vo/npc/Alyx/hurt04.wav
+[11:36:47] 남근 원숭이 played sound vo/npc/Alyx/hurt04.wav
+[11:36:48] 남근 원숭이 played sound vo/npc/Alyx/hurt04.wav
+[11:36:52] 남근 원숭이 played sound vo/npc/Alyx/hurt05.wav
+[11:36:54] 남근 원숭이 played sound vo/npc/Alyx/hurt05.wav
+[11:36:54] 남근 원숭이 played sound vo/npc/Alyx/hurt05.wav
+[11:37:23] 남근 원숭이 gave weapon_zs_novablaster to Themself
+[11:37:25] 남근 원숭이 gave weapon_zs_novablaster to ChickenUSA
+[11:40:20] ChickenUSA: !bot mod 2
+[11:40:23] ChickenUSA: !botmod 2
+[11:42:14] ChickenUSA: !bot savemesh 
+[11:42:19] ChickenUSA restarted the map.
+[11:42:19] ChickenUSA: !restartmap
+[11:42:19] Server is shutting down/changing levels.
+
+
+
+[11:42:21] New map: zs_tx_highschool_srgs_v1
+[11:42:26] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[11:42:27] Client "Bot" connected.
+[11:42:27] Client "" spawned in server <BOT> (took 8 seconds).
+[11:42:27] Client "남근 원숭이" spawned in server <STEAM_0:0:63804280> (took 8 seconds).
+[11:42:28] Client "Bot(2)" connected.
+[11:42:28] Client "" spawned in server <BOT> (took 9 seconds).
+[11:43:38] ChickenUSA set the hp for Themself to 999999
+[11:43:38] ChickenUSA: !hp chicken 999999
+[11:43:48] ChickenUSA: !bot editmesh chicken
+[11:43:56] 남근 원숭이 gave weapon_zs_zedeagle to Themself
+[11:44:04] 남근 원숭이 gave weapon_zs_zedeagle to Themself
+[11:45:46] 남근 원숭이 gave weapon_zs_swissarmyknife to Themself
+[11:45:59] 남근 원숭이 gave weapon_zs_electrohammer to Themself
+[11:47:16] ChickenUSA: !bot savemesh
+[11:47:20] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[11:47:20] Client "ChickenUSA" connected.
+[11:47:20] Dropped "Bot" from server<BOT>
+[11:47:26] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[11:47:38] ChickenUSA redeemed Themself
+[11:47:38] ChickenUSA: !redeem chicken
+[11:47:38] Client "Bot" connected.
+[11:47:38] Client "" spawned in server <BOT> (took 319 seconds).
+[11:48:45] 남근 원숭이 gave weapon_zs_boardpack to Themself
+[11:48:48] 남근 원숭이 gave weapon_zs_boardpack to Themself
+[11:48:48] 남근 원숭이 gave weapon_zs_boardpack to Themself
+[11:49:08] 남근 원숭이 gave weapon_zs_zapper to Themself
+[11:49:09] 남근 원숭이 gave weapon_zs_zapper to Themself
+[11:49:23] 남근 원숭이 gave weapon_zs_zapper to Themself
+[11:49:45] 남근 원숭이 gave weapon_zs_repairfield to Themself
+[11:50:02] Bot suicided!
+[11:50:13] ChickenUSA set the hp for Themself to 99999
+[11:50:13] ChickenUSA: !hp chicken 99999
+[11:50:15] ChickenUSA teleported to Bot
+[11:50:15] ChickenUSA: !goto bot
+[11:50:22] ChickenUSA: !bot editmesh
+[11:50:23] 남근 원숭이 gave weapon_zs_glock3 to Themself
+[11:50:25] 남근 원숭이 gave weapon_zs_glock3 to ChickenUSA
+[11:51:12] Bot(2) suicided!
+[11:51:14] Bot suicided!
+[11:51:52] Bot(2) suicided!
+[11:52:06] Bot suicided!
+[11:52:10] ChickenUSA teleported to Bot
+[11:52:10] ChickenUSA: !goto bot
+[11:52:13] 남근 원숭이 killed Bot(2) using weapon_zs_glock3
+[11:52:16] ChickenUSA: !bot editmesh
+[11:52:22] ChickenUSA: !bot editmesh chicken
+[11:52:42] 남근 원숭이 killed Bot(2) using weapon_zs_zedeagle
+[11:52:45] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[11:52:45] Client "ChickenUSA" connected.
+[11:52:46] Dropped "Bot" from server<BOT>
+[11:52:51] Bot(2) was killed by prop_physics
+[11:52:51] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[11:52:58] ChickenUSA redeemed Themself
+[11:52:58] ChickenUSA: !redeem chicken
+[11:52:58] Client "Bot" connected.
+[11:52:58] Client "" spawned in server <BOT> (took 639 seconds).
+[11:53:30] 남근 원숭이 gave weapon_zs_gunturret to Themself
+[11:53:51] Client "Bot(3)" connected.
+[11:53:51] Client "" spawned in server <BOT> (took 692 seconds).
+[11:54:03] 남근 원숭이 gave weapon_zs_gunturret to Themself
+[11:54:27] Bot(2) suicided!
+[11:54:29] ChickenUSA teleported to Bot
+[11:54:29] ChickenUSA: !goto bot
+[11:54:32] Bot(3) suicided!
+[11:54:34] Bot suicided!
+[11:55:00] ChickenUSA: !bot editmesh chicken
+[11:55:20] Bot(3) suicided!
+[11:55:23] Bot suicided!
+[11:55:26] Bot(2) suicided!
+[11:56:03] Bot(2) suicided!
+[11:56:07] Bot suicided!
+[11:56:07] Bot(3) suicided!
+[11:56:45] ChickenUSA: !bot savemesh
+[11:56:48] 남근 원숭이 gave weapon_zs_novacolt to Themself
+[11:56:49] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[11:56:49] Dropped "Bot" from server<BOT>
+[11:56:49] Client "ChickenUSA" connected.
+[11:56:54] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 5 seconds).
+[11:57:02] Bot(2) suicided!
+[11:57:03] Bot(3) suicided!
+[11:57:03] ChickenUSA redeemed Themself
+[11:57:03] ChickenUSA: !redeem chicken
+[11:57:03] Client "Bot" connected.
+[11:57:03] Client "" spawned in server <BOT> (took 884 seconds).
+[11:57:15] 남근 원숭이 gave weapon_zs_waraxe to Themself
+[11:57:36] ChickenUSA started the wave
+[11:57:36] ChickenUSA: !waveactive 1
+[11:57:36] Client "Bot(4)" connected.
+[11:57:36] Client "" spawned in server <BOT> (took 917 seconds).
+[11:57:47] Bot(2) suicided!
+[11:57:50] Bot suicided!
+[11:57:55] 남근 원숭이 gave weapon_zs_gluon to Themself
+[11:58:04] Bot(3) suicided!
+[11:58:15] 남근 원숭이 gave weapon_zs_seditionist to Themself
+[11:58:19] ChickenUSA teleported to Bot
+[11:58:19] ChickenUSA: !goto bot
+[11:58:19] Bot(4) suicided!
+[11:58:36] 남근 원숭이 gave weapon_zs_remantler to Themself
+[11:58:49] Bot(2) suicided!
+[11:59:14] Bot suicided!
+[11:59:22] Bot(3) suicided!
+[11:59:35] ChickenUSA: !bot editmesh
+[11:59:37] Bot(2) killed ChickenUSA using weapon_zs_vilebloatedzombie
+[11:59:38] Dropped "Bot" from server<BOT>
+[11:59:41] ChickenUSA: !bot editmesh chicken
+[11:59:47] Bot(4) suicided!
+[12:00:05] 남근 원숭이 killed Bot(2) using prop_gunturret
+[12:00:09] 남근 원숭이 killed Bot(3) using weapon_zs_gluon_q3
+[12:00:13] 남근 원숭이 killed Bot(3) using prop_gunturret
+[12:00:31] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[12:00:31] Client "ChickenUSA" connected.
+[12:00:32] Dropped "Bot(4)" from server<BOT>
+[12:00:37] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[12:00:38] Client "Bot" connected.
+[12:00:38] Client "" spawned in server <BOT> (took 1099 seconds).
+[12:00:44] ChickenUSA redeemed Themself
+[12:00:44] ChickenUSA: !redeem chicken
+[12:00:44] Client "Bot(4)" connected.
+[12:00:44] Client "" spawned in server <BOT> (took 1105 seconds).
+[12:00:44] 남근 원숭이 killed Bot(2) using prop_gunturret
+[12:00:52] 남근 원숭이 killed Bot(3) using weapon_zs_redeemers_q3
+[12:01:08] 남근 원숭이 killed Bot using weapon_zs_redeemers_q3
+[12:01:15] 남근 원숭이 killed Bot(4) using prop_gunturret
+[12:01:18] ChickenUSA killed Bot(3) using weapon_zs_akbar
+[12:01:18] ChickenUSA killed Bot(2) using weapon_zs_akbar
+[12:01:34] ChickenUSA killed Bot using weapon_zs_akbar
+[12:01:39] 남근 원숭이 killed Bot(3) using prop_gunturret
+[12:01:46] ChickenUSA killed Bot(4) using weapon_zs_akbar
+[12:01:52] 남근 원숭이 killed Bot(2) using weapon_zs_gluon_q3
+[12:02:04] 남근 원숭이 started the wave
+[12:02:25] 남근 원숭이 killed Bot(3) using weapon_zs_gluon_q3
+[12:02:36] 남근 원숭이 killed Bot using prop_gunturret
+[12:02:42] ChickenUSA killed Bot(2) using weapon_zs_longarm
+[12:03:00] 남근 원숭이 killed Bot(3) using weapon_zs_gluon_q3
+[12:03:00] 남근 원숭이 killed Bot(4) using weapon_zs_gluon_q3
+[12:03:01] 남근 원숭이 killed Bot(4) using prop_gunturret
+[12:03:02] ChickenUSA: !botmod 10
+[12:03:02] Client "Bot(5)" connected.
+[12:03:02] Client "" spawned in server <BOT> (took 1243 seconds).
+[12:03:03] Client "Bot(6)" connected.
+[12:03:03] Client "" spawned in server <BOT> (took 1244 seconds).
+[12:03:04] Client "Bot(7)" connected.
+[12:03:04] Client "" spawned in server <BOT> (took 1245 seconds).
+[12:03:05] Client "Bot(8)" connected.
+[12:03:05] Client "" spawned in server <BOT> (took 1246 seconds).
+[12:03:06] Client "Bot(9)" connected.
+[12:03:06] Client "" spawned in server <BOT> (took 1247 seconds).
+[12:03:07] Client "Bot(10)" connected.
+[12:03:07] Client "" spawned in server <BOT> (took 1248 seconds).
+[12:03:08] Client "Bot(11)" connected.
+[12:03:08] Client "" spawned in server <BOT> (took 1249 seconds).
+[12:03:10] Client "Bot(12)" connected.
+[12:03:10] Client "" spawned in server <BOT> (took 1251 seconds).
+[12:03:11] Client "Bot(13)" connected.
+[12:03:11] Client "" spawned in server <BOT> (took 1252 seconds).
+[12:03:12] Client "Bot(14)" connected.
+[12:03:12] Client "" spawned in server <BOT> (took 1253 seconds).
+[12:03:12] 남근 원숭이 killed Bot using prop_gunturret
+[12:03:22] 남근 원숭이 killed Bot(2) using weapon_zs_zedeagle
+[12:03:28] 남근 원숭이 killed Bot(4) using weapon_zs_zedeagle
+[12:03:29] 남근 원숭이 killed Bot(5) using weapon_zs_zedeagle
+[12:03:30] 남근 원숭이 killed Bot(7) using weapon_zs_zedeagle
+[12:03:33] 남근 원숭이 killed Bot(8) using weapon_zs_zedeagle
+[12:03:34] 남근 원숭이 killed Bot(9) using weapon_zs_zedeagle
+[12:03:35] 남근 원숭이 killed Bot(6) using weapon_zs_zedeagle
+[12:03:35] ChickenUSA killed Bot(11) using weapon_zs_longarm
+[12:03:38] 남근 원숭이 killed Bot(3) using weapon_zs_zedeagle
+[12:03:39] 남근 원숭이 killed Bot(12) using weapon_zs_zedeagle
+[12:03:39] 남근 원숭이 killed Bot(14) using weapon_zs_zedeagle
+[12:03:40] 남근 원숭이 killed Bot(13) using weapon_zs_zedeagle
+[12:03:43] 남근 원숭이 killed Bot(10) using weapon_zs_zedeagle
+[12:03:43] 남근 원숭이 killed Bot(6) using weapon_zs_zedeagle
+[12:03:47] ChickenUSA killed Bot using weapon_zs_longarm
+[12:03:49] 남근 원숭이 killed Bot(5) using weapon_zs_zedeagle
+[12:03:50] 남근 원숭이 killed Bot(2) using weapon_zs_zedeagle
+[12:04:01] 남근 원숭이 killed Bot(4) using prop_gunturret
+[12:04:03] 남근 원숭이 killed Bot(3) using weapon_zs_redeemers_q3
+[12:04:07] 남근 원숭이 killed Bot(7) using weapon_zs_redeemers_q3
+[12:04:26] 남근 원숭이 killed Bot(9) using prop_gunturret
+[12:04:27] 남근 원숭이 killed Bot(10) using prop_gunturret
+[12:04:27] ChickenUSA killed Bot(2) using projectile_corgasgrenade
+[12:04:28] ChickenUSA killed Bot(13) using weapon_zs_longarm
+[12:04:29] 남근 원숭이 killed Bot(11) using prop_gunturret
+[12:04:29] ChickenUSA killed Bot(6) using weapon_zs_longarm
+[12:04:29] 남근 원숭이 killed Bot(8) using prop_gunturret
+[12:04:30] 남근 원숭이 killed Bot(5) using weapon_zs_gluon_q3
+[12:04:30] ChickenUSA killed Bot using projectile_corgasgrenade
+[12:04:30] ChickenUSA killed Bot(12) using projectile_corgasgrenade
+[12:04:33] 남근 원숭이 killed Bot(3) using weapon_zs_gluon_q3
+[12:04:34] ChickenUSA killed Bot(4) using weapon_zs_longarm
+[12:04:36] 남근 원숭이 killed Bot(7) using weapon_zs_gluon_q3
+[12:04:50] ChickenUSA killed Bot(6) using projectile_corgasgrenade
+[12:04:52] ChickenUSA killed Bot(8) using weapon_zs_longarm
+[12:04:53] 남근 원숭이 killed Bot(14) using prop_gunturret
+[12:04:58] ChickenUSA killed Bot(2) using weapon_zs_longarm
+[12:04:59] ChickenUSA killed Bot(9) using weapon_zs_longarm
+[12:05:04] 남근 원숭이 killed Bot(10) using prop_gunturret
+[12:05:07] ChickenUSA killed Bot(13) using weapon_zs_longarm
+[12:05:09] 남근 원숭이 killed Bot(3) using weapon_zs_zedeagle
+[12:05:09] 남근 원숭이 killed Bot(7) using weapon_zs_zedeagle
+[12:05:09] 남근 원숭이 killed Bot(5) using weapon_zs_zedeagle
+[12:05:10] 남근 원숭이 killed Bot using weapon_zs_zedeagle
+[12:05:10] 남근 원숭이 killed Bot(11) using weapon_zs_zedeagle
+[12:05:13] 남근 원숭이 killed Bot(4) using weapon_zs_zedeagle
+[12:05:14] 남근 원숭이 killed Bot(12) using weapon_zs_zedeagle
+[12:05:30] Bot(7) killed ChickenUSA using weapon_zs_zombie
+[12:05:31] 남근 원숭이 killed Bot(14) using weapon_zs_zedeagle
+[12:05:31] Dropped "Bot" from server<BOT>
+[12:05:34] 남근 원숭이 killed Bot(9) using weapon_zs_zedeagle
+[12:05:35] 남근 원숭이 killed Bot(8) using weapon_zs_zedeagle
+[12:05:38] 남근 원숭이 killed Bot(10) using weapon_zs_zedeagle
+[12:05:41] 남근 원숭이 killed Bot(5) using weapon_zs_zedeagle
+[12:05:42] 남근 원숭이 killed Bot(6) using weapon_zs_zedeagle
+[12:05:42] 남근 원숭이 killed Bot(3) using weapon_zs_zedeagle
+[12:05:54] ChickenUSA suicided!
+[12:05:56] Bot(2) killed 남근 원숭이 using weapon_zs_zombie
+[12:05:56] Dropped "Bot(2)" from server<BOT>
+[12:06:19] Bot(12) suicided!
+[12:06:24] Bot(8) killed Bot(9) using weapon_zs_poisonzombie
+[12:06:27] Bot(6) killed Bot(14) using weapon_zs_poisonzombie
+[12:06:37] Bot(10) killed Bot(11) using weapon_zs_poisonzombie
+[12:06:47] Server is shutting down/changing levels.
+
+
+
+[12:06:49] New map: zs_xy_twelve_v2
+[12:06:55] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[12:06:56] Client "남근 원숭이" spawned in server <STEAM_0:0:63804280> (took 8 seconds).
+[12:06:56] Client "Bot" connected.
+[12:06:56] Client "" spawned in server <BOT> (took 8 seconds).
+[12:06:57] Client "Bot(2)" connected.
+[12:06:57] Client "" spawned in server <BOT> (took 9 seconds).
+[12:07:22] 남근 원숭이 gave 9999 points to Themself
+[12:07:24] 남근 원숭이 gave 9999 points to ChickenUSA
+[12:13:11] Client "Finna" connected.
+[12:13:19] Client "Finna" spawned in server <STEAM_0:0:86011016> (took 8 seconds).
+[12:14:24] 남근 원숭이 gave 9999 points to Finna
+[12:14:25] 남근 원숭이 gave 9999 points to Finna
+[12:14:31] 남근 원숭이 killed Bot(2) using weapon_zs_battleaxe
+[12:14:37] 남근 원숭이 killed Bot using weapon_zs_battleaxe
+[12:14:39] 남근 원숭이 killed Bot using weapon_zs_battleaxe
+[12:14:44] 남근 원숭이 killed Bot(2) using weapon_zs_battleaxe
+[12:14:49] ChickenUSA killed Bot using weapon_zs_blaster
+[12:14:55] 남근 원숭이 killed Bot(2) using weapon_zs_battleaxe
+[12:14:57] ChickenUSA killed Bot using weapon_zs_crackler
+[12:14:59] 남근 원숭이 killed Bot using weapon_zs_battleaxe
+[12:15:10] 남근 원숭이 killed Bot using weapon_zs_battleaxe
+[12:15:13] Finna killed Bot(2) using weapon_zs_tosser
+[12:15:21] ChickenUSA killed Bot using weapon_zs_blaster
+[12:15:25] 남근 원숭이 killed Bot(2) using weapon_zs_battleaxe
+[12:15:34] 남근 원숭이 killed Bot using weapon_zs_battleaxe
+[12:15:37] ChickenUSA killed Bot(2) using weapon_zs_blaster
+[12:15:43] 남근 원숭이 killed Bot using weapon_zs_battleaxe
+[12:15:50] 남근 원숭이 killed Bot(2) using weapon_zs_battleaxe
+[12:15:58] Finna killed Bot using weapon_zs_tosser
+[12:16:00] 남근 원숭이 killed Bot using weapon_zs_battleaxe
+[12:16:02] 남근 원숭이 killed Bot(2) using weapon_zs_battleaxe
+[12:16:14] Finna killed Bot using weapon_zs_tosser
+[12:16:15] Finna killed Bot(2) using weapon_zs_tosser
+[12:16:18] Finna gave swep_construction_kit to Themself
+[12:16:30] 남근 원숭이 killed Bot(2) using weapon_zs_battleaxe
+[12:16:33] ChickenUSA killed Bot using weapon_zs_crackler
+[12:16:38] 남근 원숭이 killed Bot(2) using weapon_zs_battleaxe
+[12:16:45] Finna gave swep_construction_kit to Everyone
+[12:16:49] ChickenUSA killed Bot using weapon_zs_blaster
+[12:16:58] ChickenUSA killed Bot(2) using weapon_zs_blaster
+[12:17:00] ChickenUSA killed Bot(2) using weapon_zs_blaster
+[12:18:19] Client "Bot(3)" connected.
+[12:18:19] Client "" spawned in server <BOT> (took 691 seconds).
+[12:18:31] 남근 원숭이 killed Bot(3) using weapon_zs_amigo
+[12:18:32] ChickenUSA killed Bot(2) using weapon_zs_sawedoff
+[12:18:35] Finna killed Bot using weapon_zs_inquisitor
+[12:18:37] Bot(2) killed ChickenUSA using weapon_zs_tormentedwraith
+[12:18:37] Dropped "Bot" from server<BOT>
+[12:18:42] 남근 원숭이 killed ChickenUSA using weapon_zs_amigo
+[12:18:42] Finna killed Bot(3) using weapon_zs_inquisitor
+[12:18:44] Finna killed Bot(2) using weapon_zs_inquisitor
+[12:18:46] ChickenUSA redeemed Themself
+[12:18:46] ChickenUSA: !redeem chicken
+[12:18:47] Client "Bot" connected.
+[12:18:47] Client "" spawned in server <BOT> (took 719 seconds).
+[12:18:59] Bot(3) suicided!
+[12:19:02] Finna killed Bot(2) using weapon_zs_inquisitor
+[12:19:09] 남근 원숭이 killed Bot using weapon_zs_amigo_s3
+[12:19:11] Finna killed Bot(3) using weapon_zs_inquisitor
+[12:19:21] Finna killed Bot using weapon_zs_inquisitor
+[12:19:26] 남근 원숭이 killed Bot(3) using weapon_zs_amigo_s3
+[12:19:34] Finna killed Bot using weapon_zs_inquisitor
+[12:19:39] Finna killed Bot(3) using weapon_zs_inquisitor
+[12:19:39] 남근 원숭이 killed Bot(3) using weapon_zs_amigo_s3
+[12:19:54] ChickenUSA killed Bot(2) using weapon_zs_amigo
+[12:19:55] ChickenUSA killed Bot using weapon_zs_amigo
+[12:19:57] ChickenUSA killed Bot(3) using weapon_zs_amigo
+[12:20:04] 남근 원숭이 killed Bot(2) using weapon_zs_amigo_s3
+[12:20:07] ChickenUSA killed Bot(3) using weapon_zs_amigo
+[12:20:08] ChickenUSA killed Bot using weapon_zs_amigo
+[12:20:12] 남근 원숭이 killed Bot(2) using weapon_zs_amigo_s3
+[12:20:15] 남근 원숭이 killed Bot using weapon_zs_amigo_s3
+[12:20:20] 남근 원숭이 killed Bot(2) using weapon_zs_amigo_s3
+[12:20:26] 남근 원숭이 killed Bot using weapon_zs_amigo_s3
+[12:20:34] 남근 원숭이 killed Bot(3) using weapon_zs_amigo_s3
+[12:20:40] ChickenUSA killed Bot(2) using weapon_zs_amigo
+[12:20:41] ChickenUSA killed Bot using weapon_zs_amigo
+[12:20:44] 남근 원숭이 killed Bot(3) using weapon_zs_amigo_s3
+[12:20:55] 남근 원숭이 killed Bot(3) using weapon_zs_amigo_s3
+[12:21:00] 남근 원숭이 killed Bot using weapon_zs_amigo_s3
+[12:21:00] 남근 원숭이 killed Bot(2) using weapon_zs_amigo_s3
+[12:21:16] 남근 원숭이 killed Bot using weapon_zs_amigo_s3
+[12:21:19] 남근 원숭이 killed Bot(3) using weapon_zs_amigo_s3
+[12:21:24] 남근 원숭이 killed Bot(2) using weapon_zs_amigo_s3
+[12:21:28] 남근 원숭이 killed Bot using weapon_zs_amigo_s3
+[12:21:29] 남근 원숭이 killed Bot(3) using weapon_zs_amigo_s3
+[12:21:37] 남근 원숭이 killed Bot(2) using weapon_zs_amigo_s3
+[12:21:38] 남근 원숭이 killed Bot using weapon_zs_amigo_s3
+[12:21:45] 남근 원숭이 killed Bot(3) using weapon_zs_amigo_s3
+[12:21:48] 남근 원숭이 killed Bot(2) using weapon_zs_amigo_s3
+[12:21:52] ChickenUSA killed Bot using weapon_zs_amigo
+[12:21:55] 남근 원숭이 killed Bot(3) using weapon_zs_amigo_s3
+[12:23:20] Client "Bot(4)" connected.
+[12:23:20] Client "" spawned in server <BOT> (took 992 seconds).
+[12:23:24] Finna killed Bot(4) using weapon_zs_onyx
+[12:23:25] 남근 원숭이 killed Bot(2) using weapon_zs_pollutor_q3
+[12:23:25] 남근 원숭이 killed Bot using weapon_zs_pollutor_q3
+[12:23:27] Finna killed Bot(3) using weapon_zs_onyx
+[12:23:30] ChickenUSA killed Bot(4) using weapon_zs_smg
+[12:23:34] 남근 원숭이 killed Bot(2) using weapon_zs_pollutor_q3
+[12:23:41] 남근 원숭이 killed Bot(3) using weapon_zs_pollutor_q3
+[12:23:41] 남근 원숭이 killed Bot using weapon_zs_pollutor_q3
+[12:23:45] 남근 원숭이 killed Bot(2) using weapon_zs_pollutor_q3
+[12:23:54] 남근 원숭이 killed Bot(2) using weapon_zs_pollutor_q3
+[12:23:56] 남근 원숭이 killed Bot(4) using weapon_zs_pollutor_q3
+[12:23:58] ChickenUSA killed Bot(3) using weapon_zs_smg
+[12:23:59] ChickenUSA killed Bot using weapon_zs_smg
+[12:24:05] 남근 원숭이 killed Bot(2) using weapon_zs_pollutor_q3
+[12:24:06] Finna killed Bot(4) using weapon_zs_oberon_q1
+[12:24:11] 남근 원숭이 killed Bot(3) using weapon_zs_pollutor_q3
+[12:24:11] 남근 원숭이 killed Bot(2) using weapon_zs_pollutor_q3
+[12:24:14] 남근 원숭이 killed Bot using weapon_zs_pollutor_q3
+[12:24:15] ChickenUSA killed Bot(4) using weapon_zs_smg
+[12:24:17] ChickenUSA killed Bot(3) using weapon_zs_smg
+[12:24:24] ChickenUSA killed Bot using weapon_zs_smg
+[12:24:28] ChickenUSA killed Bot(4) using weapon_zs_smg
+[12:24:28] 남근 원숭이 killed Bot(2) using weapon_zs_pollutor_q3
+[12:24:29] 남근 원숭이 killed Bot(3) using weapon_zs_pollutor_q3
+[12:24:35] 남근 원숭이 killed Bot(4) using weapon_zs_pollutor_q3
+[12:24:35] ChickenUSA killed Bot using weapon_zs_smg
+[12:24:36] ChickenUSA killed Bot(3) using weapon_zs_smg
+[12:24:36] Finna killed Bot(2) using weapon_zs_oberon_q1
+[12:24:43] Bot(2) killed Finna using weapon_zs_tormentedwraith
+[12:24:44] Dropped "Bot(2)" from server<BOT>
+[12:25:01] Bot(4) suicided!
+[12:25:01] Bot(3) suicided!
+[12:25:06] Finna redeemed Themself,Bot,Bot(3),Bot(4)
+[12:25:07] Bot suicided!
+[12:25:08] Bot(3) suicided!
+[12:25:09] Bot(4) suicided!
+[12:25:10] Client "Bot(2)" connected.
+[12:25:10] Client "" spawned in server <BOT> (took 1102 seconds).
+[12:25:19] ChickenUSA: !botmod 5
+[12:25:20] Client "Bot(5)" connected.
+[12:25:20] Client "" spawned in server <BOT> (took 1112 seconds).
+[12:25:21] Client "Bot(6)" connected.
+[12:25:21] Client "" spawned in server <BOT> (took 1113 seconds).
+[12:25:22] Client "Bot(7)" connected.
+[12:25:22] Client "" spawned in server <BOT> (took 1114 seconds).
+[12:25:23] Client "Bot(8)" connected.
+[12:25:23] Client "" spawned in server <BOT> (took 1115 seconds).
+[12:25:24] Client "Bot(9)" connected.
+[12:25:24] Client "" spawned in server <BOT> (took 1116 seconds).
+[12:25:27] 남근 원숭이 killed Bot(3) using weapon_zs_pollutor_q3
+[12:25:30] 남근 원숭이 killed Bot(2) using weapon_zs_pollutor_q3
+[12:25:31] ChickenUSA killed Bot(6) using weapon_zs_smg
+[12:25:32] Finna gave 10000 points to Themself
+[12:25:36] ChickenUSA killed Bot(8) using weapon_zs_smg
+[12:25:37] ChickenUSA killed Bot using weapon_zs_smg
+[12:25:38] 남근 원숭이 killed Bot(3) using weapon_zs_pollutor_q3
+[12:25:40] 남근 원숭이 killed Bot(4) using weapon_zs_pollutor_q3
+[12:25:42] ChickenUSA killed Bot(2) using weapon_zs_smg
+[12:25:42] ChickenUSA killed Bot(2) using weapon_zs_smg
+[12:25:43] ChickenUSA killed Bot(7) using weapon_zs_smg
+[12:25:49] 남근 원숭이 killed Bot(8) using weapon_zs_pollutor_q3
+[12:25:50] 남근 원숭이 killed Bot(6) using weapon_zs_pollutor_q3
+[12:25:51] ChickenUSA killed Bot(4) using weapon_zs_smg
+[12:26:03] Bot(9) killed Finna using weapon_zs_zombie
+[12:26:04] Dropped "Bot" from server<BOT>
+[12:26:08] Bot(3) suicided!
+[12:26:10] 남근 원숭이 killed Bot(5) using weapon_zs_pollutor_q3
+[12:26:10] 남근 원숭이 killed Bot(9) using weapon_zs_pollutor_q3
+[12:26:10] 남근 원숭이 killed Bot(2) using weapon_zs_pollutor_q3
+[12:26:12] ChickenUSA killed Bot(8) using weapon_zs_smg
+[12:26:12] ChickenUSA killed Bot(6) using weapon_zs_smg
+[12:26:20] 남근 원숭이 killed Bot(4) using weapon_zs_pollutor_q3
+[12:26:29] 남근 원숭이 killed Bot(3) using weapon_zs_pollutor_q3
+[12:26:31] ChickenUSA killed Bot(2) using weapon_zs_smg
+[12:26:31] ChickenUSA killed Bot(4) using weapon_zs_smg
+[12:26:42] 남근 원숭이 killed Bot(6) using weapon_zs_pollutor_q3
+[12:26:43] 남근 원숭이 killed Bot(8) using weapon_zs_pollutor_q3
+[12:26:43] ChickenUSA killed Bot(5) using weapon_zs_smg
+[12:26:44] 남근 원숭이 killed Bot(4) using weapon_zs_pollutor_q3
+[12:26:44] 남근 원숭이 killed Bot(7) using weapon_zs_pollutor_q3
+[12:26:47] 남근 원숭이 killed Bot(2) using weapon_zs_pollutor_q3
+[12:26:50] ChickenUSA: !botmod -5
+[12:26:51] Dropped "Bot(2)" from server<BOT>
+[12:26:52] Dropped "Bot(3)" from server<BOT>
+[12:26:52] 남근 원숭이 killed Bot(3) using player
+[12:26:53] ChickenUSA killed Bot(9) using weapon_zs_smg
+[12:26:53] Dropped "Bot(4)" from server<BOT>
+[12:26:53] 남근 원숭이 killed Bot(8) using weapon_zs_pollutor_q3
+[12:26:54] 남근 원숭이 killed Bot(6) using weapon_zs_pollutor_q3
+[12:26:54] Dropped "Bot(5)" from server<BOT>
+[12:26:55] Dropped "Bot(6)" from server<BOT>
+[12:26:56] Dropped "Bot(7)" from server<BOT>
+[12:26:57] Dropped "Bot(8)" from server<BOT>
+[12:26:58] Dropped "Bot(9)" from server<BOT>
+[12:27:06] ChickenUSA: !botmod 3
+[12:27:06] Client "Bot" connected.
+[12:27:06] Client "" spawned in server <BOT> (took 1218 seconds).
+[12:27:07] Client "Bot(2)" connected.
+[12:27:07] Client "" spawned in server <BOT> (took 1219 seconds).
+[12:27:08] Client "Bot(3)" connected.
+[12:27:08] Client "" spawned in server <BOT> (took 1220 seconds).
+[12:27:09] Client "Bot(4)" connected.
+[12:27:09] Client "" spawned in server <BOT> (took 1221 seconds).
+[12:27:11] Client "Bot(5)" connected.
+[12:27:11] Client "" spawned in server <BOT> (took 1223 seconds).
+[12:27:11] 남근 원숭이 killed Finna using weapon_zs_deagle
+[12:27:12] Client "Bot(6)" connected.
+[12:27:12] Client "" spawned in server <BOT> (took 1224 seconds).
+[12:27:32] ChickenUSA killed Bot(5) using weapon_zs_smg
+[12:27:33] ChickenUSA killed Bot using weapon_zs_smg
+[12:27:33] 남근 원숭이 killed Bot(2) using weapon_zs_pollutor_q3
+[12:27:34] ChickenUSA killed Bot(6) using weapon_zs_smg
+[12:27:38] 남근 원숭이 killed Bot(3) using weapon_zs_pollutor_q3
+[12:27:46] ChickenUSA killed Bot(4) using weapon_zs_smg
+[12:27:58] Bot was killed by prop_physics
+[12:28:49] Client "Bot(7)" connected.
+[12:28:49] Client "" spawned in server <BOT> (took 1321 seconds).
+[12:28:55] 남근 원숭이 gave weapon_zs_remantler to Themself
+[12:29:00] ChickenUSA killed Bot(6) using weapon_zs_m4
+[12:29:06] 남근 원숭이 killed Bot using weapon_zs_slugrifle
+[12:29:06] ChickenUSA killed Bot(2) using weapon_zs_m4
+[12:29:07] 남근 원숭이 killed Bot(7) using weapon_zs_slugrifle
+[12:29:12] ChickenUSA killed Bot(4) using weapon_zs_m4
+[12:29:13] ChickenUSA killed Bot(3) using weapon_zs_m4
+[12:29:18] ChickenUSA killed Bot(5) using weapon_zs_m4
+[12:29:25] ChickenUSA killed Bot(2) using weapon_zs_m4
+[12:29:27] Bot(3) killed ChickenUSA using prop_physics
+[12:29:27] Dropped "Bot" from server<BOT>
+[12:29:31] Finna redeemed Themself
+[12:29:32] Client "Bot" connected.
+[12:29:32] Client "" spawned in server <BOT> (took 1364 seconds).
+[12:29:38] Bot(7) killed Finna using weapon_zs_tormentedwraith
+[12:29:38] Dropped "Bot" from server<BOT>
+[12:29:43] Finna redeemed Themself
+[12:29:44] Client "Bot" connected.
+[12:29:44] Client "" spawned in server <BOT> (took 1376 seconds).
+[12:29:50] Bot(6) killed Finna using weapon_zs_poisonzombie
+[12:29:50] Dropped "Bot" from server<BOT>
+[12:29:51] Bot(4) killed 남근 원숭이 using weapon_zs_lacerator
+[12:29:52] Dropped "Bot(2)" from server<BOT>
+[12:30:16] Bot(5) killed Bot(3) using weapon_zs_lacerator
+[12:30:21] Bot(4) killed Bot(5) using weapon_zs_lacerator
+[12:30:23] 남근 원숭이 gave weapon_zs_quasar to Themself
+[12:30:23] Bot(6) killed ChickenUSA using weapon_zs_poisonzombie
+[12:30:28] Bot(6) killed Bot(7) using weapon_zs_poisonzombie
+[12:30:29] 남근 원숭이 gave weapon_zs_gorechild to Themself
+[12:30:34] 남근 원숭이 gave weapon_zs_kongolaxe to Themself
+[12:30:42] Server is shutting down/changing levels.
+
+
+
+[12:30:44] New map: zs_tx_highschool_srgs_v1
+[12:30:50] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 8 seconds).
+[12:30:51] Client "Bot" connected.
+[12:30:51] Client "" spawned in server <BOT> (took 9 seconds).
+[12:30:51] Client "남근 원숭이" spawned in server <STEAM_0:0:63804280> (took 9 seconds).
+[12:30:51] Client "Finna" spawned in server <STEAM_0:0:86011016> (took 9 seconds).
+[12:30:52] Client "Bot(2)" connected.
+[12:30:52] Client "" spawned in server <BOT> (took 10 seconds).
+[12:31:26] ChickenUSA: !bot editmesh chicken
+[12:31:41] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[12:31:41] Client "ChickenUSA" connected.
+[12:31:44] 남근 원숭이 gave 999999 points to Themself
+[12:31:45] 남근 원숭이 gave 999999 points to Finna
+[12:31:47] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 6 seconds).
+[12:31:48] Dropped "Bot" from server<BOT>
+[12:31:53] ChickenUSA redeemed Themself
+[12:31:53] ChickenUSA: !redeem chicken
+[12:31:53] Client "Bot" connected.
+[12:31:53] Client "" spawned in server <BOT> (took 71 seconds).
+[12:32:57] 남근 원숭이: Can Zeus be in here
+[12:33:01] 남근 원숭이: the chat I mean
+[12:33:03] ChickenUSA: yeah thats fine
+[12:33:12] 남근 원숭이: bro will snitch to midnight staff 
+[12:33:14] Finna: i think he can read this
+[12:33:14] 남근 원숭이: 100%
+[12:37:33] Finna: !roundactive 1
+[12:38:10] 남근 원숭이 killed Bot using projectile_proxymine
+[12:38:11] Finna gave weapon_zs_repairfield to Themself
+[12:38:19] Finna killed Bot(2) using weapon_zs_blaster
+[12:39:00] 남근 원숭이 killed Bot using prop_manhack
+[12:39:01] 남근 원숭이 killed Bot(2) using prop_manhack
+[12:39:44] Finna killed Bot using weapon_zs_blaster
+[12:39:48] Finna killed Bot(2) using weapon_zs_blaster
+[12:40:23] Finna killed Bot using weapon_zs_blaster
+[12:40:31] 남근 원숭이 killed Bot(2) using prop_manhack
+[12:40:55] Finna killed Bot using weapon_zs_blaster
+[12:41:10] 남근 원숭이 killed Bot(2) using weapon_zs_axe_q3
+[12:42:13] Client "Bot(3)" connected.
+[12:42:13] Client "" spawned in server <BOT> (took 691 seconds).
+[12:42:45] Finna killed Bot(3) using weapon_zs_annabelle
+[12:42:48] ChickenUSA killed Bot(2) using weapon_zs_annabelle
+[12:42:49] ChickenUSA killed Bot using weapon_zs_annabelle
+[12:43:24] Finna killed Bot(3) using weapon_zs_hurricane_q3
+[12:43:24] Finna killed Bot(2) using weapon_zs_hurricane_q3
+[12:43:40] Finna killed Bot using weapon_zs_hurricane_q3
+[12:43:44] Finna killed Bot(3) using weapon_zs_hurricane_q3
+[12:44:04] Finna killed Bot(2) using weapon_zs_hurricane_q3
+[12:44:04] Finna killed Bot using weapon_zs_hurricane_q3
+[12:44:12] Finna killed Bot(3) using weapon_zs_hurricane_q3
+[12:44:26] Finna killed Bot using weapon_zs_hurricane_q3
+[12:44:33] Finna killed Bot(2) using weapon_zs_hurricane_q3
+[12:44:50] 남근 원숭이 killed Bot(3) using weapon_zs_sledgehammer_q3
+[12:44:58] Finna killed Bot using weapon_zs_hurricane_q3
+[12:45:05] 남근 원숭이 killed Bot(2) using weapon_zs_sledgehammer_q3
+[12:45:19] Bot(3) killed 남근 원숭이 using weapon_zs_zombie
+[12:45:20] Dropped "Bot" from server<BOT>
+[12:45:27] Finna killed Bot(3) using weapon_zs_hurricane_q3
+[12:45:30] Finna killed Bot(2) using weapon_zs_hurricane_q3
+[12:45:32] Finna killed 남근 원숭이 using weapon_zs_hurricane_q3
+[12:45:54] Finna killed Bot(2) using weapon_zs_hurricane_q3
+[12:45:58] Finna killed Bot(3) using weapon_zs_hurricane_q3
+[12:47:00] Finna killed 남근 원숭이 using weapon_zs_smg_q3
+[12:47:13] Client "Bot" connected.
+[12:47:13] Client "" spawned in server <BOT> (took 991 seconds).
+[12:47:30] Finna killed Bot(2) using weapon_zs_smg_q3
+[12:47:36] Finna killed Bot using weapon_zs_smg_q3
+[12:47:40] Finna killed 남근 원숭이 using weapon_zs_smg_q3
+[12:47:42] Finna killed Bot(3) using weapon_zs_smg_q3
+[12:48:05] Finna killed Bot(2) using weapon_zs_smg_q3
+[12:48:10] ChickenUSA killed Bot(3) using weapon_zs_longsword_q3
+[12:48:15] Finna killed Bot using weapon_zs_smg_q3
+[12:48:20] 남근 원숭이 suicided!
+[12:48:27] Finna killed Bot(2) using weapon_zs_smg_q3
+[12:48:28] Finna killed 남근 원숭이 using weapon_zs_smg_q3
+[12:48:50] Finna killed Bot using weapon_zs_smg_q3
+[12:48:50] Finna killed Bot(2) using weapon_zs_smg_q3
+[12:49:06] Finna killed Bot(3) using weapon_zs_smg_q3
+[12:49:07] Finna killed Bot(2) using weapon_zs_smg_q3
+[12:49:08] 남근 원숭이 suicided!
+[12:49:15] Finna killed Bot(3) using weapon_zs_smg_q3
+[12:49:18] Bot suicided!
+[12:49:20] Finna killed 남근 원숭이 using weapon_zs_smg_q3
+[12:49:23] Finna killed Bot(2) using weapon_zs_smg_q3
+[12:49:23] Finna killed Bot(3) using weapon_zs_smg_q3
+[12:49:27] Finna killed Bot using weapon_zs_smg_q3
+[12:49:35] Finna killed 남근 원숭이 using weapon_zs_smg_q3
+[12:49:41] Finna killed Bot(2) using weapon_zs_smg_q3
+[12:49:42] Finna killed Bot using weapon_zs_smg_q3
+[12:49:58] Finna killed Bot(3) using weapon_zs_smg_q3
+[12:49:59] Finna killed Bot(2) using weapon_zs_smg_q3
+[12:50:01] Finna killed 남근 원숭이 using weapon_zs_smg_q3
+[12:50:08] Bot suicided!
+[12:50:09] Finna killed Bot(2) using weapon_zs_smg_q3
+[12:50:13] Finna killed 남근 원숭이 using weapon_zs_smg_q3
+[12:50:17] Finna killed Bot using weapon_zs_smg_q3
+[12:50:20] Finna killed Bot(3) using weapon_zs_smg_q3
+[12:50:24] Finna killed 남근 원숭이 using weapon_zs_smg_q3
+[12:50:33] Finna killed Bot(3) using weapon_zs_smg_q3
+[12:50:35] Finna killed 남근 원숭이 using weapon_zs_smg_q3
+[12:50:36] Bot(2) suicided!
+[12:50:45] Bot suicided!
+[12:50:47] Finna killed 남근 원숭이 using weapon_zs_smg_q3
+[12:50:49] Finna killed Bot(3) using weapon_zs_smg_q3
+[12:50:53] Bot(2) suicided!
+[12:50:55] Finna killed 남근 원숭이 using weapon_zs_smg_q3
+[12:51:05] Finna killed 남근 원숭이 using weapon_zs_smg_q3
+[12:51:08] Finna killed Bot using weapon_zs_smg_q3
+[12:51:12] Finna killed 남근 원숭이 using weapon_zs_smg_q3
+[12:51:14] Finna killed Bot(3) using weapon_zs_smg_q3
+[12:51:18] Finna killed Bot using weapon_zs_smg_q3
+[12:51:25] Finna killed Bot(2) using weapon_zs_smg_q3
+[12:51:43] 남근 원숭이 forced Themself to be boss
+[12:52:44] Client "Bot(4)" connected.
+[12:52:44] Client "" spawned in server <BOT> (took 1322 seconds).
+[12:52:49] ChickenUSA blinded 남근 원숭이 by amount 255
+[12:52:51] ChickenUSA unblinded 남근 원숭이
+[12:52:57] 남근 원숭이 killed Finna using weapon_zs_special_wow
+[12:52:57] Finna killed 남근 원숭이 using weapon_zs_smg_q3
+[12:52:58] Dropped "Bot" from server<BOT>
+[12:53:05] Finna killed ChickenUSA using weapon_zs_freshdead
+[12:53:07] Dropped "Bot(2)" from server<BOT>
+[12:53:56] Server is shutting down/changing levels.
+
+
+
+[12:53:58] New map: zs_xy_twelve_v2
+[12:54:03] Client "ChickenUSA" spawned in server <STEAM_0:1:99196516> (took 7 seconds).
+[12:54:03] Client "Finna" spawned in server <STEAM_0:0:86011016> (took 7 seconds).
+[12:54:04] Client "남근 원숭이" spawned in server <STEAM_0:0:63804280> (took 8 seconds).
+[12:54:04] Client "Bot" connected.
+[12:54:04] Client "" spawned in server <BOT> (took 8 seconds).
+[12:54:05] Client "Bot(2)" connected.
+[12:54:05] Client "" spawned in server <BOT> (took 9 seconds).
+[12:54:18] Dropped "남근 원숭이" from server<STEAM_0:0:63804280>
+[12:56:44] Dropped "Finna" from server<STEAM_0:0:86011016>
+[12:56:44] Dropped "Bot" from server<BOT>
+[13:01:11] Dropped "ChickenUSA" from server<STEAM_0:1:99196516>
+[13:01:11] Dropped "Bot(2)" from server<BOT>
+[13:01:21] Server is shutting down/changing levels.
